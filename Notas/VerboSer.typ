@@ -1,7 +1,7 @@
 #set text(
-  font: "NanumMyeongjo",
+  font: "Noto Sans CJK KR",
   lang: "ko",
-  size: 15pt,
+  size: 20pt,
 )
 
 #set page(
@@ -104,7 +104,7 @@ nombre de pais + 사람(인)
 베트남 사람
 태국 사람
 미국 사람
-영국 사람->영어
+영국 사람 -> 영어
 독일 사람
 호주 사람
 대만 사람

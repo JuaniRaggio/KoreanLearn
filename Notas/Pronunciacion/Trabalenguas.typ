@@ -1,7 +1,7 @@
 #set text(
-  font: "NanumMyeongjo",
+  font: "Noto Sans CJK KR",
   lang: "ko",
-  size: 15pt,
+  size: 20pt,
 )
 
 #set page(
