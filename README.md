@@ -1,15 +1,15 @@
-# Notas de mi Viaje aprendiendo Coreano
+# 한국어 공부 노트
 
-Este repo tiene todos los archivos que me son utiles para aprender el idioma,
-tanto libros, trabalenguas y mis apuntes en el transcurso de este aprendizaje
+이 저장소에는 한국어를 배우는 데 도움이 되는 모든 파일들이 있습니다.
+책, 혀 놀리기 놀이, 그리고 학습 과정에서 만든 노트들이 포함되어 있습니다.
 
-# Por que tomar notas en Typst?
+# 왜 Typst로 노트를 작성하나요?
 
-- Facilidad de configuracion
+- 설정이 쉽습니다
 
-- Facilidad de uso con LSP
+- LSP와 함께 사용하기 쉽습니다  
 
-- Setear una font legible para Coreano es trivial y viene incluida con typst
+- 한국어를 위한 읽기 좋은 글꼴 설정이 간단하고 Typst에 포함되어 있습니다
 
-- Graficos y librerias para hacer mapas mentales rapidamente con una sintaxis mucho mas simple que LaTeX
+- LaTeX보다 훨씬 간단한 문법으로 그래프와 마인드맵을 빠르게 만들 수 있는 라이브러리가 있습니다
 
