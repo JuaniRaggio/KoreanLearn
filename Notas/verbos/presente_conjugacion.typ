@@ -1,3 +1,13 @@
+#set text(
+  font: "Noto Sans CJK KR",
+  lang: "ko",
+  size: 20pt,
+)
+
+// Author: Juani Raggio
+// Date: 2025-09-18
+
+
 가을
 
 
