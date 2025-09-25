@@ -10,11 +10,11 @@
 = Vocabulario básico
 
 == Presentarse
-- 이름이 뭐예요? → ¿Cómo te llamas?  
-  저는 후안이에요 → Me llamo Juan.  
+- 이름이 뭐예요?
+  저는 후안이에요
 
-- 어느 나라 사람이에요? → ¿De qué país eres?  
-  저는 아르헨티나 사람이에요 → Soy argentino.  
+- 어느 나라 사람이에요?
+  저는 아르헨티나 사람이에요
 
 - 직업이 뭐예요? → ¿Cuál es tu profesión?  
   저는 대학생이에요 → Soy estudiante universitario.  
@@ -85,35 +85,39 @@ Equivale a nuestro verbo “ser” en español.
 
 == Semi formal (아요/어요/해요)  
 
-- Vocal sol (ㅏ, ㅗ) → 아요  
-  가다 → 가요 (voy)  
-  사다 → 사요 (compro)  
-  만나(다) → 만나요 (me encuentro)  
+- Vocal sol (ㅏ, ㅗ) → 아요  \
+  가다 → 가요 (voy)  \
+  사다 → 사요 (compro)  \
+  만나(다) → 만나요 (me encuentro)
 
-- Vocal luna (ㅓ, ㅜ, ㅔ, ㅕ, ㅣ…) → 어요  
-  먹다 → 먹어요 (como)  
-  읽다 → 읽어요 (leo)  
-  배우다 → 배워요 (aprendo)  
+  \
 
-- 하다 → 해요  
-  공부하다 → 공부해요 (estudio)  
-  운동하다 → 운동해요 (hago ejercicio)  
-  좋아하다 → 좋아해요 (me gusta)  
-  사랑하다 → 사랑해요 (amo)  
+- Vocal luna (ㅓ, ㅜ, ㅔ, ㅕ, ㅣ…) → 어요  \
+  먹다 → 먹어요 (como)  \
+  읽다 → 읽어요 (leo)  \
+  배우다 → 배워요 (aprendo)  \
+
+  \
+
+- 하다 → 해요  \
+  공부하다 → 공부해요 (estudio)  \
+  운동하다 → 운동해요 (hago ejercicio)  \
+  좋아하다 → 좋아해요 (me gusta)  \
+  사랑하다 → 사랑해요 (amo)  \
 
 == Formal (습니다/ㅂ니다)  
 
-가다 → 갑니다 (voy)  
-먹다 → 먹습니다 (como)  
-배우다 → 배웁니다 (aprendo)  
-사랑하다 → 사랑합니다 (amo)  
+가다 → 갑니다 (voy)  \
+먹다 → 먹습니다 (como)  \
+배우다 → 배웁니다 (aprendo)  \
+사랑하다 → 사랑합니다 (amo)  \
 
 == Informal (sin 요)  
 
-가다 → 가 (voy)  
-먹다 → 먹어 (como)  
-배우다 → 배워 (aprendo)  
-사랑하다 → 사랑해 (te amo)  
+가다 → 가 (voy)  \
+먹다 → 먹어 (como)  \
+배우다 → 배워 (aprendo)  \
+사랑하다 → 사랑해 (te amo)  \
 
 ---
 
