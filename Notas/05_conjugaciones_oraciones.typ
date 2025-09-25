@@ -22,11 +22,13 @@
 - 이 드라마 제목은 ‘폭군의 쉐프’입니다.  
   $->$ El título de este drama es "El chef del tirano".  
 
+
 - 이 왕은 ‘연산군’ 이에요.  
   $->$ Este rey es Yeonsangun.  
 
+
 - 이 영화 제목은 ‘왕의 남자’ 입니다.  
-  $->$ El título de esta película es "El hombre del rey".  
+  $->$ "The king and the clown".  
 
 ---
 
