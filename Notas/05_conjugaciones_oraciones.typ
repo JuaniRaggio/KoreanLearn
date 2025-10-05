@@ -1,3 +1,8 @@
+#set page(
+  paper: "a4",
+  margin: (x: 2cm, y: 2cm),
+)
+
 #set text(
   font: "Noto Sans CJK KR",
   lang: "ko",
@@ -7,6 +12,59 @@
 // Author: Juani Raggio
 // Date: 2025-09-25
 
+// Carátula
+#align(center)[
+  #v(3cm)
+
+  #text(size: 24pt, weight: "bold")[
+    한국어
+  ]
+
+  #v(1cm)
+
+  #grid(
+    columns: (1fr, 1fr),
+    align: center,
+    text(size: 80pt)[🇦🇷],
+    text(size: 80pt)[🇰🇷],
+  )
+
+  #v(2cm)
+
+  #text(size: 16pt)[
+    *학생:* Juan Ignacio Raggio
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 16pt)[
+    *선생님:* 이선주
+  ]
+
+  #v(2cm)
+
+  #line(length: 60%, stroke: 0.5pt)
+
+  #v(1cm)
+
+  #text(size: 14pt)[
+    *수업:* 5
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 14pt)[
+    *주제:* Conjugaciones y oraciones
+  ]
+
+  #v(1fr)
+
+  #text(size: 12pt)[
+    02/10/2025
+  ]
+]
+
+#pagebreak()
 
 = Vocabulario y ejemplos
 
@@ -19,16 +77,14 @@
 #line(length: 100%)
 
 == Títulos
-- 이 드라마 제목은 ‘폭군의 쉐프’입니다.  
-  $->$ El título de este drama es "El chef del tirano".  
+- 이 드라마 제목은 ‘폭군의 쉐프’입니다 $->$
+  El título de este drama es "El chef del tirano"
 
 
-- 이 왕은 ‘연산군’ 이에요.  
-  $->$ Este rey es Yeonsangun.  
+- 이 왕은 ‘연산군’ 이에요 $->$ Este rey es Yeonsangun
 
 
-- 이 영화 제목은 ‘왕의 남자’ 입니다.  
-  $->$ "The king and the clown".  
+- 이 영화 제목은 ‘왕의 남자’ 입니다 $->$ "The king and the clown"
 
 #line(length: 100%)
 

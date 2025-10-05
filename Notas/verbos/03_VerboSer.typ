@@ -1,12 +1,67 @@
+#set page(
+  paper: "a4",
+  margin: (x: 2cm, y: 2cm),
+)
+
 #set text(
   font: "Noto Sans CJK KR",
   lang: "ko",
   size: 20pt,
 )
 
-#set page(
-  margin: 2cm,
-)
+// Carátula
+#align(center)[
+  #v(3cm)
+
+  #text(size: 24pt, weight: "bold")[
+    한국어
+  ]
+
+  #v(1cm)
+
+  #grid(
+    columns: (1fr, 1fr),
+    align: center,
+    text(size: 80pt)[🇦🇷],
+    text(size: 80pt)[🇰🇷],
+  )
+
+  #v(2cm)
+
+  #text(size: 16pt)[
+    *학생:* Juan Ignacio Raggio
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 16pt)[
+    *선생님:* 이선주
+  ]
+
+  #v(2cm)
+
+  #line(length: 60%, stroke: 0.5pt)
+
+  #v(1cm)
+
+  #text(size: 14pt)[
+    *수업:* 3
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 14pt)[
+    *주제:* Verbo ser
+  ]
+
+  #v(1fr)
+
+  #text(size: 12pt)[
+    02/10/2025
+  ]
+]
+
+#pagebreak()
 
 #align(center)[= 잰말놀이]
 \

@@ -1,3 +1,8 @@
+#set page(
+  paper: "a4",
+  margin: (x: 2cm, y: 2cm),
+)
+
 #set text(
   font: "Noto Sans CJK KR",
   lang: "ko",
@@ -6,6 +11,60 @@
 
 // Autor: Juani Raggio
 // Fecha: 2025-09-18
+
+// Carátula
+#align(center)[
+  #v(3cm)
+
+  #text(size: 24pt, weight: "bold")[
+    한국어
+  ]
+
+  #v(1cm)
+
+  #grid(
+    columns: (1fr, 1fr),
+    align: center,
+    text(size: 80pt)[🇦🇷],
+    text(size: 80pt)[🇰🇷],
+  )
+
+  #v(2cm)
+
+  #text(size: 16pt)[
+    *학생:* Juan Ignacio Raggio
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 16pt)[
+    *선생님:* 이선주
+  ]
+
+  #v(2cm)
+
+  #line(length: 60%, stroke: 0.5pt)
+
+  #v(1cm)
+
+  #text(size: 14pt)[
+    *수업:* 4
+  ]
+
+  #v(0.5cm)
+
+  #text(size: 14pt)[
+    *주제:* Presente conjugación
+  ]
+
+  #v(1fr)
+
+  #text(size: 12pt)[
+    02/10/2025
+  ]
+]
+
+#pagebreak()
 
 = Vocabulario básico
 
@@ -29,7 +88,7 @@
 - 요리사/쉐프 → cocinero/chef  
 - 건축가 → arquitecto  
 
----
+#line(length: 100%)
 
 = Objetos y personas
 - 물 → agua  
@@ -41,7 +100,7 @@
 
 시계예요 → Es un reloj.  
 
----
+#line(length: 100%)
 
 = Demostrativos
 - 이 → este  
@@ -51,7 +110,7 @@
 이 사람은 에바예요 → Esta persona es Eva.\
 아니에요. 이 사람은 학생이에요 → No, esta persona es estudiante.\
 
----
+#line(length: 100%)
 
 = Ejemplos de presentación
 안녕하세요? 저는 타완이에요.  
@@ -74,12 +133,12 @@
 
 네, 저는 의사예요
 
----
+#line(length: 100%)
 
 = Gramática: 이다 (ser)
 Equivale a nuestro verbo “ser” en español.  
 
----
+#line(length: 100%)
 
 = Conjugación en presente
 
@@ -119,7 +178,7 @@ Equivale a nuestro verbo “ser” en español.
 배우다 → 배워 (aprendo)  \
 사랑하다 → 사랑해 (te amo)  \
 
----
+#line(length: 100%)
 
 = Nota fonética
 ㄱ → ㄴ → ㅁ → ㅍ → ㄹ → ㅂ
