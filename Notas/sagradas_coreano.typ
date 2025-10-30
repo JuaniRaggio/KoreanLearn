@@ -250,10 +250,6 @@ Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de 
 
 4. *경찰청창살은 외철창살이고 검찰청창살은 쌍철창살이다*
 
-#tip[
-Practicar estos trabalenguas lentamente al principio, luego aumentar la velocidad gradualmente.
-]
-
 #pagebreak()
 
 = Gramática Fundamental
@@ -273,7 +269,7 @@ El coreano tiene 3 niveles de formalidad que se deben distinguir según el conte
 *Estructura:* Sustantivo + 입니다 (afirmación) / 입니까? (pregunta)
 
 *Ejemplos:*
-- 저는 이선주입니다 → Soy Lee Seon-ju
+- 저는 이선주입니다 → Soy Lee Sunjoo
 - 저는 후안입니다 → Soy Juan
 - 아르헨티나 사람입니까? → ¿Es argentino?
 - 네, 아르헨티나 사람입니다 → Sí, soy argentino
@@ -338,7 +334,8 @@ Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atenc
    - 사랑하다 → 사랑해요 (amar)
 
 #tip[
-Para determinar qué vocal usar, observar la última vocal del radical del verbo (antes de 다). Si es ㅏ o ㅗ, usar 아요. Todo lo demás, usar 어요.
+    Para saber que terminacion usar, basta ver la ultima letra 
+  antes de 다 y decidir si es sol, luna o irregular
 ]
 
 === Formal (습니다/ㅂ니다)
@@ -385,7 +382,7 @@ Aquí los verbos más comunes que verás en clase:
 - 저는 오늘 일찍 자요 → Hoy duermo temprano
 
 #error[
-자다 es irregular: se conjuga como 자요, NO como 자아요. Muchos principiantes cometen este error.
+자다 es irregular: se conjuga como 자요, NO como 자아요
 ]
 
 === 먹다 (comer)
@@ -959,7 +956,8 @@ Estos comandos los escucharás constantemente en clase:
 == Orden de Palabras
 
 #importante[
-El coreano tiene un orden de palabras COMPLETAMENTE diferente al español. Familiarízate con esto desde el principio.
+  El coreano tiene un orden de palabras COMPLETAMENTE diferente 
+al español
 ]
 
 *Español/Inglés:* S + V + O + C
@@ -972,7 +970,8 @@ El coreano tiene un orden de palabras COMPLETAMENTE diferente al español. Famil
 - *Coreano:* 저는 집에서 사과를 먹어요 (Yo casa-en manzana como)
 
 #tip[
-El verbo SIEMPRE va al final en coreano. Si estás traduciendo del español, mueve el verbo al final.
+  El verbo SIEMPRE va al final en coreano. Evitar traducir de 
+Español, intentar pensar en Coreano
 ]
 
 == Fiestas y Celebraciones
@@ -1034,60 +1033,16 @@ El verbo SIEMPRE va al final en coreano. Si estás traduciendo del español, mue
 == Errores más frecuentes
 
 #error[
-Usar 이에요 después de vocal o 예요 después de consonante.
-
-Correcto: 후안이에요 (consonante ㄴ), 이선주예요 (vocal ㅜ)
-]
-
-#error[
-Olvidar que 자다 (dormir) se conjuga como 자요, NO como 자아요.
-
-Correcto: 자요 \
-Incorrecto: 자아요
-]
-
-#error[
-Mezclar niveles de formalidad en la misma conversación. Mantener el mismo nivel durante toda la conversación.
-]
-
-#error[
-Usar 이/가 junto con 도.
-
-Correcto: 저도 학생이에요 \
-Incorrecto: 저가도 학생이에요 o 저이도 학생이에요
-]
-
-#error[
-Olvidar que el verbo va al FINAL de la oración.
-
+Olvidarse que el verbo va al FINAL de la oración.
 Correcto: 저는 집에서 사과를 먹어요 \
 Incorrecto: 저는 먹어요 사과를 집에서
 ]
 
-== Tips para el éxito
-
 #tip[
-Memorizar las vocales sol/luna desde el principio ahorrará mucha confusión en conjugaciones.
-]
-
-#tip[
-Practicar los trabalenguas regularmente es excelente para mejorar pronunciación y fluidez.
-]
-
-#tip[
-Siempre prestar atención al nivel de formalidad. En caso de duda, utilizar el semi-formal (해요).
-]
-
-#tip[
-Crear tarjetas de vocabulario para lugares y objetos de la casa. El vocabulario de ubicaciones es muy útil en conversaciones cotidianas.
-]
-
-#tip[
-Practicar escribiendo diálogos completos usando diferentes niveles de formalidad para la misma conversación.
-]
-
-#importante[
-El coreano es un idioma muy sistemático. Una vez comprendidos los patrones básicos (vocales sol/luna, niveles de formalidad, orden de palabras), todo empezará a tener sentido.
+  Intentar *evitar a toda costa* el traducir de español a Coreano,
+en cambio pensar directamente lo que sea que estemos diciendo en
+Coreano. Puede que al principio sea raro o dificil pero va a 
+ayudar mucho en la adaptacion del idioma
 ]
 
 #pagebreak()
