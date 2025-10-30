@@ -760,6 +760,8 @@ Para formar el idioma, usa: País + 어
 - 화장대 → tocador
 - 화장하다 → maquillarse
 - 화장품 → cosméticos
+- 시겨 $->$ reloj
+- 옷 $->$ ropa
 
 === Cocina (주방 / 부엌)
 - 식탁 → mesa de comedor
@@ -1077,15 +1079,4 @@ ayudar mucho en la adaptacion del idioma
     [도], [También], [저도 가요],
     [하고/랑/과], [Y (conectar)], [책하고 펜],
   )
-]
-
-#align(center)[
-  #v(2cm)
-  #text(size: 14pt, fill: gray)[
-    화이팅! 한국어 공부 잘 하세요!
-  ]
-  #v(0.5cm)
-  #text(size: 12pt, fill: gray)[
-    ¡Ánimo! ¡Estudia bien el coreano!
-  ]
 ]
