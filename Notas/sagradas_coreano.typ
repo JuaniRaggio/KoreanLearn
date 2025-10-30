@@ -242,13 +242,23 @@ Regla mnemotécnica: Las vocales "sol" tienen líneas verticales u horizontales 
 
 Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de los más usados:
 
-1. *육통통장 적금은 황색적금통장이고 팔통통장 적금통장은 녹색적금통장이다*
+1. *육통통장 적금은 \
+황색적금통장이고 \
+팔통통장 적금통장은 \
+녹색적금통장이다*
 
-2. *작은 토끼 토끼통 옆에는 큰 토끼 토끼통이 있고 큰 토끼 토끼통 옆에는 작은 토끼 토끼통이 있다*
+2. *작은 토끼 토끼통\
+옆에는 큰 토끼 \
+토끼통이 있고 큰 \
+토끼 토끼통 옆에는 \
+작은 토끼 토끼통이 있다*
 
 3. *봄 꿀밤, 단 꿀밤 가을 꿀밤, 안 단 꿀밤*
 
-4. *경찰청창살은 외철창살이고 검찰청창살은 쌍철창살이다*
+4. *경찰청창살은 \
+외철창살이고 \
+검찰청창살은 \
+쌍철창살이다*
 
 #pagebreak()
 
@@ -269,26 +279,26 @@ El coreano tiene 3 niveles de formalidad que se deben distinguir según el conte
 *Estructura:* Sustantivo + 입니다 (afirmación) / 입니까? (pregunta)
 
 *Ejemplos:*
-- 저는 이선주입니다 → Soy Lee Sunjoo
-- 저는 후안입니다 → Soy Juan
-- 아르헨티나 사람입니까? → ¿Es argentino?
-- 네, 아르헨티나 사람입니다 → Sí, soy argentino
+- 저는 이선주입니다 $->$ Soy Lee Sunjoo
+- 저는 후안입니다 $->$ Soy Juan
+- 아르헨티나 사람입니까? $->$ ¿Es argentino?
+- 네, 아르헨티나 사람입니다 $->$ Sí, soy argentino
 
 === Semi-formal (~이에요 / ~예요)
 
 *Uso:* Situaciones neutras, amigables, conversación cotidiana.
 
 *Estructura:*
-- Consonante final → ~이에요
-- Vocal final → ~예요
+- Consonante final $->$ ~이에요
+- Vocal final $->$ ~예요
 
 *Ejemplos:*
-- 후안이에요 → Soy Juan (termina en consonante ㄴ)
-- 이선주예요 → Soy Lee Seon-ju (termina en vocal ㅜ)
-- 학생이에요? → ¿Es estudiante?
+- 후안이에요 $->$ Soy Juan (termina en consonante ㄴ)
+- 이선주예요 $->$ Soy Lee Seon-ju (termina en vocal ㅜ)
+- 학생이에요? $->$ ¿Es estudiante?
 
 #error[
-No usar 이에요 después de vocal, ni 예요 después de consonante. Este es uno de los errores más comunes de principiantes.
+No usar 이에요 después de vocal, ni 예요 después de consonante.
 ]
 
 === Informal (~이야 / ~야)
@@ -296,13 +306,13 @@ No usar 이에요 después de vocal, ni 예요 después de consonante. Este es u
 *Uso:* Amigos cercanos, familia, personas de menor edad.
 
 *Estructura:*
-- Consonante final → ~이야
-- Vocal final → ~야
+- Consonante final $->$ ~이야
+- Vocal final $->$ ~야
 
 *Ejemplos:*
-- 후안이야 → Soy Juan
-- 아르헨티나 사람이야? → ¿Eres argentino?
-- 응, 아르헨티나 사람이야 → Sí, soy argentino
+- 후안이야 $->$ Soy Juan
+- 아르헨티나 사람이야? $->$ ¿Eres argentino?
+- 응, 아르헨티나 사람이야 $->$ Sí, soy argentino
 
 #pagebreak()
 
@@ -318,20 +328,20 @@ Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atenc
 
 *Reglas:*
 
-1. *Vocal sol (ㅏ, ㅗ) → 아요*
-   - 가다 → 가요 (ir)
-   - 사다 → 사요 (comprar)
-   - 만나다 → 만나요 (encontrarse)
+1. *Vocal sol (ㅏ, ㅗ) $->$ 아요*
+   - 가다 $->$ 가요 (ir)
+   - 사다 $->$ 사요 (comprar)
+   - 만나다 $->$ 만나요 (encontrarse)
 
-2. *Vocal luna (ㅓ, ㅜ, ㅔ, ㅕ, ㅣ) → 어요*
-   - 먹다 → 먹어요 (comer)
-   - 읽다 → 읽어요 (leer)
-   - 배우다 → 배워요 (aprender)
+2. *Vocal luna (ㅓ, ㅜ, ㅔ, ㅕ, ㅣ) $->$ 어요*
+   - 먹다 $->$ 먹어요 (comer)
+   - 읽다 $->$ 읽어요 (leer)
+   - 배우다 $->$ 배워요 (aprender)
 
-3. *하다 → 해요* (irregular)
-   - 공부하다 → 공부해요 (estudiar)
-   - 운동하다 → 운동해요 (hacer ejercicio)
-   - 사랑하다 → 사랑해요 (amar)
+3. *하다 $->$ 해요* (irregular)
+   - 공부하다 $->$ 공부해요 (estudiar)
+   - 운동하다 $->$ 운동해요 (hacer ejercicio)
+   - 사랑하다 $->$ 사랑해요 (amar)
 
 #tip[
     Para saber que terminacion usar, basta ver la ultima letra 
@@ -341,23 +351,23 @@ Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atenc
 === Formal (습니다/ㅂ니다)
 
 *Reglas:*
-- Consonante final → 습니다
-- Vocal final → ㅂ니다
+- Consonante final $->$ 습니다
+- Vocal final $->$ ㅂ니다
 
 *Ejemplos:*
-- 가다 → 갑니다 (ir)
-- 먹다 → 먹습니다 (comer)
-- 배우다 → 배웁니다 (aprender)
-- 사랑하다 → 사랑합니다 (amar)
+- 가다 $->$ 갑니다 (ir)
+- 먹다 $->$ 먹습니다 (comer)
+- 배우다 $->$ 배웁니다 (aprender)
+- 사랑하다 $->$ 사랑합니다 (amar)
 
 === Informal (sin 요)
 
 Simplemente quita el 요 de la forma semi-formal:
 
-- 가다 → 가 (ir)
-- 먹다 → 먹어 (comer)
-- 배우다 → 배워 (aprender)
-- 사랑하다 → 사랑해 (amar)
+- 가다 $->$ 가 (ir)
+- 먹다 $->$ 먹어 (comer)
+- 배우다 $->$ 배워 (aprender)
+- 사랑하다 $->$ 사랑해 (amar)
 
 #pagebreak()
 
@@ -367,19 +377,19 @@ Aquí los verbos más comunes que verás en clase:
 
 === 일하다 (trabajar)
 - 일합니다 / 일해요 / 일해
-- 저는 오늘 일해요 → Hoy trabajo
+- 저는 오늘 일해요 $->$ Hoy trabajo
 
 === 공부하다 (estudiar)
 - 공부합니다 / 공부해요 / 공부해
-- 오늘 우리는 한국어 공부해요 → Hoy estudiamos coreano
+- 오늘 우리는 한국어 공부해요 $->$ Hoy estudiamos coreano
 
 === 운동하다 (hacer ejercicio)
 - 운동합니다 / 운동해요 / 운동해
-- 마리아 씨는 내일 운동해요 → María hace ejercicio mañana
+- 마리아 씨는 내일 운동해요 $->$ María hace ejercicio mañana
 
 === 자다 (dormir)
 - 잡니다 / 자요 / 자
-- 저는 오늘 일찍 자요 → Hoy duermo temprano
+- 저는 오늘 일찍 자요 $->$ Hoy duermo temprano
 
 #error[
 자다 es irregular: se conjuga como 자요, NO como 자아요
@@ -387,27 +397,27 @@ Aquí los verbos más comunes que verás en clase:
 
 === 먹다 (comer)
 - 먹습니다 / 먹어요 / 먹어
-- 밥 먹어요 → Como arroz
+- 밥 먹어요 $->$ Como arroz
 
 === 마시다 (beber)
 - 마십니다 / 마셔요 / 마셔
-- 물 마셔요 → Bebo agua
+- 물 마셔요 $->$ Bebo agua
 
 === 읽다 (leer)
 - 읽습니다 / 읽어요 / 읽어
-- 책 읽어요 → Leo un libro
+- 책 읽어요 $->$ Leo un libro
 
 === 전화하다 (llamar)
 - 전화합니다 / 전화해요 / 전화해
-- 엄마는 오늘 전화해요 → Mamá llama hoy
+- 엄마는 오늘 전화해요 $->$ Mamá llama hoy
 
 === 이야기하다 / 말하다 (hablar)
 - 이야기합니다 / 이야기해요 / 이야기해
-- 다니엘은 학교 숙제 이야기해요 → Daniel habla de la tarea
+- 다니엘은 학교 숙제 이야기해요 $->$ Daniel habla de la tarea
 
 #pagebreak()
 
-== Existencia: 있다 ⇔ 없다
+== Existencia: 있다 $<=>$ 없다
 
 Los verbos 있다 (haber/existir/tener) y 없다 (no haber/no existir/no tener) son fundamentales.
 
@@ -417,8 +427,8 @@ Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indi
 
 *Estructura:* [Sustantivo]이/가 있다/없다
 
-- Consonante final → 이
-- Vocal final → 가
+- Consonante final $->$ 이
+- Vocal final $->$ 가
 
 *Conjugaciones:*
 
@@ -433,10 +443,10 @@ Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indi
 - 없어 (informal)
 
 *Ejemplos básicos:*
-- 책상이 있습니다 → Hay un escritorio
-- 의자가 없어요 → No hay silla
-- 펜이 있어 → Hay una pluma
-- 가방이 없습니다 → No hay mochila
+- 책상이 있습니다 $->$ Hay un escritorio
+- 의자가 없어요 $->$ No hay silla
+- 펜이 있어 $->$ Hay una pluma
+- 가방이 없습니다 $->$ No hay mochila
 
 #pagebreak()
 
@@ -445,22 +455,22 @@ Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indi
 La partícula ~에 indica ubicación (estar en) o dirección (ir a).
 
 *Ubicación (~에 있다/없다):*
-- 학교에 있어요 → Está en la escuela
-- 공원에 있어요 → Está en el parque
+- 학교에 있어요 $->$ Está en la escuela
+- 공원에 있어요 $->$ Está en el parque
 
 *Dirección (~에 가다):*
-- 학교에 가요 → Voy a la escuela
-- 공원에 가요 → Voy al parque
+- 학교에 가요 $->$ Voy a la escuela
+- 공원에 가요 $->$ Voy al parque
 
 #tip[
 Si la pregunta es "¿Dónde?", usa 어디에. Si es "¿A dónde?", también usa 어디에 가요?
 ]
 
 *Ejemplos completos:*
-- 어디에 있어요? → ¿Dónde está?
-- 학교에 있어요 → Está en la escuela
-- 어디에 가요? → ¿A dónde vas?
-- 학교에 가요 → Voy a la escuela
+- 어디에 있어요? $->$ ¿Dónde está?
+- 학교에 있어요 $->$ Está en la escuela
+- 어디에 가요? $->$ ¿A dónde vas?
+- 학교에 가요 $->$ Voy a la escuela
 
 #pagebreak()
 
@@ -491,13 +501,13 @@ Las preposiciones de lugar son esenciales para describir ubicaciones.
 ]
 
 *Patrón de pregunta:*
-- [Objeto] [Posición]에 뭐가 있어요? → ¿Qué hay [posición] de [objeto]?
+- [Objeto] [Posición]에 뭐가 있어요? $->$ ¿Qué hay [posición] de [objeto]?
 
 *Ejemplos:*
-- 책상 위에 뭐가 있어요? → ¿Qué hay encima del escritorio?
-- 컴퓨터가 있어요 → Hay una computadora
-- 가방 안에 뭐가 있어요? → ¿Qué hay dentro de la mochila?
-- 책이 있어요 → Hay un libro
+- 책상 위에 뭐가 있어요? $->$ ¿Qué hay encima del escritorio?
+- 컴퓨터가 있어요 $->$ Hay una computadora
+- 가방 안에 뭐가 있어요? $->$ ¿Qué hay dentro de la mochila?
+- 책이 있어요 $->$ Hay un libro
 
 #pagebreak()
 
@@ -510,32 +520,32 @@ Hay tres formas de decir "y" para conectar sustantivos, con diferentes niveles d
 La forma más neutra y conversacional.
 
 *Ejemplos:*
-- 책상하고 의자하고 펜이 있어요 → Hay escritorio y silla y pluma
-- 저하고 친구가 가요 → Yo y mi amigo vamos
+- 책상하고 의자하고 펜이 있어요 $->$ Hay escritorio y silla y pluma
+- 저하고 친구가 가요 $->$ Yo y mi amigo vamos
 
 === ~랑 / ~이랑 (informal)
 
 La forma más casual, se usa con amigos y familia.
 
 *Regla:*
-- Vocal final → 랑
-- Consonante final → 이랑
+- Vocal final $->$ 랑
+- Consonante final $->$ 이랑
 
 *Ejemplos:*
-- 책상이랑 의자랑 펜이 있어요 → Hay escritorio y silla y pluma
-- 나랑 친구가 가 → Yo y mi amigo vamos
+- 책상이랑 의자랑 펜이 있어요 $->$ Hay escritorio y silla y pluma
+- 나랑 친구가 가 $->$ Yo y mi amigo vamos
 
 === ~와 / ~과 (formal/escrito)
 
 La forma más formal, se usa en escritura académica y documentos oficiales.
 
 *Regla:*
-- Vocal final → 와
-- Consonante final → 과
+- Vocal final $->$ 와
+- Consonante final $->$ 과
 
 *Ejemplos:*
-- 책상과 의자와 펜이 있어요 → Hay escritorio y silla y pluma
-- 한국과 아르헨티나 → Corea y Argentina
+- 책상과 의자와 펜이 있어요 $->$ Hay escritorio y silla y pluma
+- 한국과 아르헨티나 $->$ Corea y Argentina
 
 #error[
 No mezclar los niveles. Usar solo un tipo de conector en cada oración: 하고 O 랑/이랑 O 와/과.
@@ -550,9 +560,9 @@ La partícula ~도 significa "también" y reemplaza las partículas de sujeto (�
 *Estructura:* Sustantivo + 도
 
 *Ejemplos:*
-- 저도 학생이에요 → Yo también soy estudiante
-- 이것도 있어요 → Esto también está/hay
-- 후안도 한국어 공부해요 → Juan también estudia coreano
+- 저도 학생이에요 $->$ Yo también soy estudiante
+- 이것도 있어요 $->$ Esto también está/hay
+- 후안도 한국어 공부해요 $->$ Juan también estudia coreano
 
 #tip[
 Al usar 도, no usar 이/가 o 은/는 al mismo tiempo. ~도 las reemplaza.
@@ -582,41 +592,41 @@ Las palabras interrogativas son fundamentales para hacer preguntas.
 *Ejemplos detallados:*
 
 === 뭐 / 무엇 (qué)
-- 뭐예요? → ¿Qué es?
-- 이게 뭐예요? → ¿Qué es esto?
-- 뭐 해요? → ¿Qué haces?
+- 뭐예요? $->$ ¿Qué es?
+- 이게 뭐예요? $->$ ¿Qué es esto?
+- 뭐 해요? $->$ ¿Qué haces?
 
 #nota[
 뭐 es la forma corta de 무엇. En conversación se usa casi siempre 뭐.
 ]
 
 === 누구 (quién)
-- 누구예요? → ¿Quién es?
-- 이 사람은 누구예요? → ¿Quién es esta persona?
+- 누구예요? $->$ ¿Quién es?
+- 이 사람은 누구예요? $->$ ¿Quién es esta persona?
 
 === 어디 (dónde)
-- 어디예요? → ¿Dónde es?
-- 어디 가요? → ¿A dónde vas?
-- 화장실이 어디예요? → ¿Dónde está el baño?
+- 어디예요? $->$ ¿Dónde es?
+- 어디 가요? $->$ ¿A dónde vas?
+- 화장실이 어디예요? $->$ ¿Dónde está el baño?
 
 === 언제 (cuándo)
-- 언제예요? → ¿Cuándo es?
-- 언제 가요? → ¿Cuándo vas?
+- 언제예요? $->$ ¿Cuándo es?
+- 언제 가요? $->$ ¿Cuándo vas?
 
 === 왜 (por qué)
-- 왜요? → ¿Por qué?
-- 왜 공부해요? → ¿Por qué estudias?
+- 왜요? $->$ ¿Por qué?
+- 왜 공부해요? $->$ ¿Por qué estudias?
 
 === 어떻게 (cómo)
-- 어떻게 지내요? → ¿Cómo estás?
-- 이거 어떻게 해요? → ¿Cómo hago esto?
+- 어떻게 지내요? $->$ ¿Cómo estás?
+- 이거 어떻게 해요? $->$ ¿Cómo hago esto?
 
 === 어느 (cuál)
-- 어느 나라 사람이에요? → ¿De qué país eres?
-- 어느 것이 좋아요? → ¿Cuál te gusta?
+- 어느 나라 사람이에요? $->$ ¿De qué país eres?
+- 어느 것이 좋아요? $->$ ¿Cuál te gusta?
 
 === 몇 (cuántos)
-- 몇 살이에요? → ¿Cuántos años tienes?
+- 몇 살이에요? $->$ ¿Cuántos años tienes?
 
 #pagebreak()
 
@@ -641,28 +651,28 @@ Usar 저 y 저희 en situaciones formales. Usar 나 solo con amigos cercanos.
 *Patrón:* País + 사람
 
 Principales países:
-- 한국 사람 → coreano
-- 아르헨티나 사람 → argentino
-- 중국 사람 → chino
-- 일본 사람 → japonés
-- 미국 사람 → estadounidense
-- 영국 사람 → británico
-- 스페인 사람 → español
-- 이탈리아 사람 → italiano
-- 태국 사람 → tailandés
-- 베트남 사람 → vietnamita
-- 브라질 사람 → brasileño
-- 멕시코 사람 → mexicano
+- 한국 사람 $->$ coreano
+- 아르헨티나 사람 $->$ argentino
+- 중국 사람 $->$ chino
+- 일본 사람 $->$ japonés
+- 미국 사람 $->$ estadounidense
+- 영국 사람 $->$ británico
+- 스페인 사람 $->$ español
+- 이탈리아 사람 $->$ italiano
+- 태국 사람 $->$ tailandés
+- 베트남 사람 $->$ vietnamita
+- 브라질 사람 $->$ brasileño
+- 멕시코 사람 $->$ mexicano
 
 *Idiomas:*
 
 Para formar el idioma, usa: País + 어
 
-- 한국어 → coreano (idioma)
-- 스페인어 → español (idioma)
-- 영어 → inglés
-- 일본어 → japonés (idioma)
-- 이탈리아어 → italiano (idioma)
+- 한국어 $->$ coreano (idioma)
+- 스페인어 $->$ español (idioma)
+- 영어 $->$ inglés
+- 일본어 $->$ japonés (idioma)
+- 이탈리아어 $->$ italiano (idioma)
 
 #pagebreak()
 
@@ -675,171 +685,171 @@ Para formar el idioma, usa: País + 어
 
 *Profesiones comunes:*
 
-- 학생 → estudiante
-  - 초등학생 → estudiante de primaria
-  - 중학생 → estudiante de secundaria
-  - 고등학생 → estudiante de preparatoria
-  - 대학생 → universitario
-- 선생님 → profesor
-- 교수님 → profesor universitario
-- 회사원 / 직장인 → empleado de oficina
-- 의사 → médico
-- 간호사 → enfermera
-- 경찰 / 경찰관 → policía
-- 소방관 → bombero
-- 공무원 → funcionario público
-- 엔지니어 → ingeniero
-- 디자이너 → diseñador
-- 쉐프 / 요리사 → chef/cocinero
-- 변호사 → abogado
-- 건축가 → arquitecto
+- 학생 $->$ estudiante
+  - 초등학생 $->$ estudiante de primaria
+  - 중학생 $->$ estudiante de secundaria
+  - 고등학생 $->$ estudiante de preparatoria
+  - 대학생 $->$ universitario
+- 선생님 $->$ profesor
+- 교수님 $->$ profesor universitario
+- 회사원 / 직장인 $->$ empleado de oficina
+- 의사 $->$ médico
+- 간호사 $->$ enfermera
+- 경찰 / 경찰관 $->$ policía
+- 소방관 $->$ bombero
+- 공무원 $->$ funcionario público
+- 엔지니어 $->$ ingeniero
+- 디자이너 $->$ diseñador
+- 쉐프 / 요리사 $->$ chef/cocinero
+- 변호사 $->$ abogado
+- 건축가 $->$ arquitecto
 
 #pagebreak()
 
 == Lugares (장소)
 
 === Educación
-- 학교 → escuela
-- 초등학교 → escuela primaria
-- 중학교 → secundaria
-- 고등학교 → preparatoria
-- 대학교 → universidad
+- 학교 $->$ escuela
+- 초등학교 $->$ escuela primaria
+- 중학교 $->$ secundaria
+- 고등학교 $->$ preparatoria
+- 대학교 $->$ universidad
 
 === Comercios
-- 가게 → tienda
-- 옷가게 → tienda de ropa
-- 신발가게 → zapatería
-- 빵집 → panadería
-- 꽃집 → florería
-- 술집 → bar
-- 편의점 → tienda 24h
-- 마트 → supermercado
-- 쇼핑몰 → shopping/plaza
-- 백화점 → gran tienda/galería
+- 가게 $->$ tienda
+- 옷가게 $->$ tienda de ropa
+- 신발가게 $->$ zapatería
+- 빵집 $->$ panadería
+- 꽃집 $->$ florería
+- 술집 $->$ bar
+- 편의점 $->$ tienda 24h
+- 마트 $->$ supermercado
+- 쇼핑몰 $->$ shopping/plaza
+- 백화점 $->$ gran tienda/galería
 
 === Establecimientos
-- 회사 → empresa
-- 집 → casa
-- 방 → sala/habitación
-- 노래방 → karaoke
-- PC방 (피씨방) → cibercafé
-- 찜질방 → sauna coreana
-- 식당 / 음식점 → restaurante
-- 시장 → mercado
-- 공원 → parque
-- 극장 / 영화관 → teatro/cine
-- 공항 → aeropuerto
-- 병원 → hospital
-- 은행 → banco
-- 대사관 → embajada
+- 회사 $->$ empresa
+- 집 $->$ casa
+- 방 $->$ sala/habitación
+- 노래방 $->$ karaoke
+- PC방 (피씨방) $->$ cibercafé
+- 찜질방 $->$ sauna coreana
+- 식당 / 음식점 $->$ restaurante
+- 시장 $->$ mercado
+- 공원 $->$ parque
+- 극장 / 영화관 $->$ teatro/cine
+- 공항 $->$ aeropuerto
+- 병원 $->$ hospital
+- 은행 $->$ banco
+- 대사관 $->$ embajada
 
 #pagebreak()
 
 == Objetos de la Casa
 
 === Salón de clases (교실)
-- 책상 → escritorio
-- 의자 → silla
-- 펜 → pluma
-- 가방 → mochila
-- 컴퓨터 → computadora
-- 노트북 / 랩탑 → laptop
-- 텔레비전 (티비) → televisión
-- 책 → libro
-- 공책 → cuaderno
-- 칠판 → pizarrón
+- 책상 $->$ escritorio
+- 의자 $->$ silla
+- 펜 $->$ pluma
+- 가방 $->$ mochila
+- 컴퓨터 $->$ computadora
+- 노트북 / 랩탑 $->$ laptop
+- 텔레비전 (티비) $->$ televisión
+- 책 $->$ libro
+- 공책 $->$ cuaderno
+- 칠판 $->$ pizarrón
 
 === Habitación (방 / 침실)
-- 침대 → cama
-- 책상 → escritorio
-- 의자 → silla
-- 옷장 → armario
-- 책장 → librero
-- 나이트테이블 (협탁) → mesa de noche
-- 거울 → espejo
-- 화장대 → tocador
-- 화장하다 → maquillarse
-- 화장품 → cosméticos
+- 침대 $->$ cama
+- 책상 $->$ escritorio
+- 의자 $->$ silla
+- 옷장 $->$ armario
+- 책장 $->$ librero
+- 나이트테이블 (협탁) $->$ mesa de noche
+- 거울 $->$ espejo
+- 화장대 $->$ tocador
+- 화장하다 $->$ maquillarse
+- 화장품 $->$ cosméticos
 - 시겨 $->$ reloj
 - 옷 $->$ ropa
 
 === Cocina (주방 / 부엌)
-- 식탁 → mesa de comedor
-- 냉장고 → refrigerador
-- 가스 레인지 → estufa de gas
-- 전자 레인지 → microondas
-- 오븐 → horno
-- 믹서기 → licuadora
-- 칼 → cuchillo
-- 도마 → tabla de cortar
-- 그릇 → plato/tazón
-- 숟가락 → cuchara
-- 젓가락 → palillos
-- 포크 → tenedor
-- 가위 → tijeras
-- 컵 (잔) → vaso/taza
-- 후라이팬 → sartén
-- 냄비 → olla
+- 식탁 $->$ mesa de comedor
+- 냉장고 $->$ refrigerador
+- 가스 레인지 $->$ estufa de gas
+- 전자 레인지 $->$ microondas
+- 오븐 $->$ horno
+- 믹서기 $->$ licuadora
+- 칼 $->$ cuchillo
+- 도마 $->$ tabla de cortar
+- 그릇 $->$ plato/tazón
+- 숟가락 $->$ cuchara
+- 젓가락 $->$ palillos
+- 포크 $->$ tenedor
+- 가위 $->$ tijeras
+- 컵 (잔) $->$ vaso/taza
+- 후라이팬 $->$ sartén
+- 냄비 $->$ olla
 
 === Baño (화장실 / 욕실)
-- 수건 → toalla
-- 휴지 → papel higiénico
-- 휴지통 (쓰레기통) → basurero
-- 칫솔 → cepillo de dientes
-- 치약 → pasta dental
-- 샴푸 → champú
-- 린스 (트리트먼트) → acondicionador
-- 바디워시 → jabón corporal
-- 비누 → jabón
-- 욕조 → bañera
+- 수건 $->$ toalla
+- 휴지 $->$ papel higiénico
+- 휴지통 (쓰레기통) $->$ basurero
+- 칫솔 $->$ cepillo de dientes
+- 치약 $->$ pasta dental
+- 샴푸 $->$ champú
+- 린스 (트리트먼트) $->$ acondicionador
+- 바디워시 $->$ jabón corporal
+- 비누 $->$ jabón
+- 욕조 $->$ bañera
 
 === Sala (거실)
-- 티비 → TV
-- 소파 → sofá
-- 거실 테이블 → mesa de sala
-- 가족 사진 → foto familiar
+- 티비 $->$ TV
+- 소파 $->$ sofá
+- 거실 테이블 $->$ mesa de sala
+- 가족 사진 $->$ foto familiar
 
 === Balcón (베란다)
-- 김치 냉장고 → refrigerador de kimchi
-- 세탁기 → lavadora
-- 건조기 → secadora
+- 김치 냉장고 $->$ refrigerador de kimchi
+- 세탁기 $->$ lavadora
+- 건조기 $->$ secadora
 
 === Patio (마당)
-- 나무 → árbol
-- 꽃 → flor
-- 자전거 → bicicleta
-- 자동차 (차) → automóvil
+- 나무 $->$ árbol
+- 꽃 $->$ flor
+- 자전거 $->$ bicicleta
+- 자동차 (차) $->$ automóvil
 
 #pagebreak()
 
 == Acciones (동사)
 
 === Actividades cotidianas
-- 가다 → ir
-- 일하다 → trabajar
-- 공부하다 → estudiar
-- 운동하다 → hacer ejercicio
-- 자다 → dormir
-- 먹다 → comer
-- 읽다 → leer
-- 쓰다 → escribir
-- 배우다 → aprender
-- 사다 → comprar
-- 만나다 → encontrarse
+- 가다 $->$ ir
+- 일하다 $->$ trabajar
+- 공부하다 $->$ estudiar
+- 운동하다 $->$ hacer ejercicio
+- 자다 $->$ dormir
+- 먹다 $->$ comer
+- 읽다 $->$ leer
+- 쓰다 $->$ escribir
+- 배우다 $->$ aprender
+- 사다 $->$ comprar
+- 만나다 $->$ encontrarse
 
 === Comunicación
-- 전화하다 → llamar por teléfono
-- 이야기하다 → hablar/contar
-- 말하다 → hablar
-- 듣다 → escuchar
-- 대답하다 → responder
-- 질문하다 → preguntar
+- 전화하다 $->$ llamar por teléfono
+- 이야기하다 $->$ hablar/contar
+- 말하다 $->$ hablar
+- 듣다 $->$ escuchar
+- 대답하다 $->$ responder
+- 질문하다 $->$ preguntar
 
 === Otros
-- 사랑하다 → amar
-- 좋아하다 → gustar
-- 마시다 → beber
-- 부탁하다 → pedir un favor
+- 사랑하다 $->$ amar
+- 좋아하다 $->$ gustar
+- 마시다 $->$ beber
+- 부탁하다 $->$ pedir un favor
 
 #pagebreak()
 
@@ -852,18 +862,18 @@ Usar el nivel de formalidad correcto es CRUCIAL en coreano. Puede ser considerad
 ]
 
 === Formal
-- 안녕하십니까? → Hola (formal)
-- 안녕히 계십시오 → Adiós (quédate bien - cuando tú te vas)
-- 안녕히 가십시오 → Adiós (vete bien - cuando la otra persona se va)
+- 안녕하십니까? $->$ Hola (formal)
+- 안녕히 계십시오 $->$ Adiós (quédate bien - cuando tú te vas)
+- 안녕히 가십시오 $->$ Adiós (vete bien - cuando la otra persona se va)
 
 === Semi-formal
-- 안녕하세요? → Hola
-- 안녕히 계세요 → Adiós (quédate bien)
-- 안녕히 가세요 → Adiós (vete bien)
+- 안녕하세요? $->$ Hola
+- 안녕히 계세요 $->$ Adiós (quédate bien)
+- 안녕히 가세요 $->$ Adiós (vete bien)
 
 === Informal
-- 안녕? → Hola
-- 안녕! → Adiós
+- 안녕? $->$ Hola
+- 안녕! $->$ Adiós
 
 #tip[
 Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 viene de 가다 (ir). Usar 계세요 cuando uno se va, y 가세요 cuando la otra persona se va.
@@ -886,8 +896,8 @@ Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 
 - ㄱㅅ (abreviación de texto)
 
 *Respuesta:*
-- 천만에요 → De nada (semi-formal)
-- 천만에 → De nada (informal)
+- 천만에요 $->$ De nada (semi-formal)
+- 천만에 $->$ De nada (informal)
 
 === Disculparse
 
@@ -921,18 +931,18 @@ Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 
 
 == Presentaciones
 
-- 만나서 반갑습니다 → Mucho gusto (formal)
-- 만나서 반가워요 → Mucho gusto (semi-formal)
-- 만나서 반가워 → Mucho gusto (informal)
-- 잘 부탁드립니다 → Bien te pido/encantado de trabajar contigo (formal)
-- 잘 부탁드려요 → ídem (semi-formal)
-- 잘 부탁해 → ídem (informal)
+- 만나서 반갑습니다 $->$ Mucho gusto (formal)
+- 만나서 반가워요 $->$ Mucho gusto (semi-formal)
+- 만나서 반가워 $->$ Mucho gusto (informal)
+- 잘 부탁드립니다 $->$ Bien te pido/encantado de trabajar contigo (formal)
+- 잘 부탁드려요 $->$ ídem (semi-formal)
+- 잘 부탁해 $->$ ídem (informal)
 
 == Celebraciones
 
-- 축하해요! → ¡Felicidades!
-- 생일 축하해요 → ¡Feliz cumpleaños!
-- 화이팅! → ¡Ánimo! / ¡Vamos!
+- 축하해요! $->$ ¡Felicidades!
+- 생일 축하해요 $->$ ¡Feliz cumpleaños!
+- 화이팅! $->$ ¡Ánimo! / ¡Vamos!
 
 #pagebreak()
 
@@ -940,16 +950,16 @@ Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 
 
 Estos comandos los escucharás constantemente en clase:
 
-- 책을 펴세요 → Abran el libro
-- 책을 보세요 → Miren el libro
-- 잘 들으세요 → Escuchen bien
-- 따라 하세요 → Repitan
-- 읽으세요 → Lean
-- 쓰세요 → Escriban
-- 질문하세요 → Pregunten
-- 대답하세요 → Respondan
-- 알겠어요? → ¿Entienden?
-- 질문 있어요? → ¿Hay preguntas?
+- 책을 펴세요 $->$ Abran el libro
+- 책을 보세요 $->$ Miren el libro
+- 잘 들으세요 $->$ Escuchen bien
+- 따라 하세요 $->$ Repitan
+- 읽으세요 $->$ Lean
+- 쓰세요 $->$ Escriban
+- 질문하세요 $->$ Pregunten
+- 대답하세요 $->$ Respondan
+- 알겠어요? $->$ ¿Entienden?
+- 질문 있어요? $->$ ¿Hay preguntas?
 
 #pagebreak()
 
@@ -967,8 +977,6 @@ al español
 *Coreano:* S + C + O + V
 
 *Ejemplo:*
-- *Español:* Yo como manzana en casa
-- *Inglés:* I eat apple at home
 - *Coreano:* 저는 집에서 사과를 먹어요 (Yo casa-en manzana como)
 
 #tip[
@@ -978,17 +986,17 @@ Español, intentar pensar en Coreano
 
 == Fiestas y Celebraciones
 
-- 설날 → Año Nuevo lunar
-- 추석 → Festival de la cosecha (Chuseok)
-- 한글날 → Día del Hangeul (9 de octubre)
-- 개천절 → Día de la fundación de Corea
-- 광복절 → Día de la liberación
+- 설날 $->$ Año Nuevo lunar
+- 추석 $->$ Festival de la cosecha (Chuseok)
+- 한글날 $->$ Día del Hangeul (9 de octubre)
+- 개천절 $->$ Día de la fundación de Corea
+- 광복절 $->$ Día de la liberación
 
 == Literatura y Cultura
 
-- 채식주의자 → La vegetariana (Han Kang)
-- 소년이 온다 → Vinieron los muchachos (Han Kang)
-- 안중근 → Héroe nacional coreano
+- 채식주의자 $->$ La vegetariana (Han Kang)
+- 소년이 온다 (Han Kang)
+- 안중근 $->$ Héroe nacional coreano
 
 #pagebreak()
 
