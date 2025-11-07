@@ -38,7 +38,7 @@
 
 #set text(
   font: "Noto Sans CJK KR",
-  size: 11pt,
+  size: 16pt,
   lang: "ko",
   hyphenate: true,
 )

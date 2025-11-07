@@ -6,7 +6,7 @@
 #set text(
   font: "Noto Sans CJK KR",
   lang: "ko",
-  size: 18pt,
+  size: 16pt,
 )
 
 // Author: Juani Raggio
