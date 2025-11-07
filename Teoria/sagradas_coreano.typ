@@ -1059,7 +1059,7 @@ ayudar mucho en la adaptacion del idioma
 
 = Resumen Visual Rápido
 
-== Conjugación Rápida
+== Conjugacion Rapida
 
 #align(center)[
   #table(
@@ -1074,7 +1074,7 @@ ayudar mucho en la adaptacion del idioma
   )
 ]
 
-== Partículas Esenciales
+== Particulas Esenciales
 
 #align(center)[
   #table(
@@ -1088,3 +1088,32 @@ ayudar mucho en la adaptacion del idioma
     [하고/랑/과], [Y (conectar)], [책하고 펜],
   )
 ]
+
+== Unidades para armar numeros
+
+#importante[
+  Recordar empaquetar de a 10k los numeros
+]
+
+#table(
+  columns: 2,
+  [*Numero*], [*Nombre*],
+  [1], [일],
+  [2], [],
+  [3], [],
+  [4], [],
+  [5], [],
+  [6], [],
+  [7], [],
+  [8], [],
+  [9], [],
+  [10], [십],
+  [100], [백],
+  [1,000], [천],
+  [10,000], [만],
+  [100,000], [십만],
+  [1,000,000], [백만],
+  [10,000,000], [천만],
+  [100,000,000], [억],
+)
+
