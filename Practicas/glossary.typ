@@ -407,5 +407,177 @@
   먹다:  to eat
 ]
 
+#phrase[
+  봐요
+][
+  I watch
+][
+  봐다:  to watch
+]
+
+#phrase[
+  네 맞아요
+][
+  Yes, that's correct
+][
+  맞다:  to be correct
+][
+  아요:  present tense semi-formal ending
+]
+
+#phrase[
+  이거 카메라예요
+][
+  This thing is a camara / This is a camara
+][
+  이: This / Sufix of object
+][
+  거: Something
+][
+  카메라예요:  Camara + present sufix of to be for vowel ending word
+]
+
+#phrase[
+  간단해요
+][
+  It's simple
+][
+  간단: Simple
+][
+  간단하다:  to be simple
+]
+
+#phrase[
+  여러분사랑해요
+][
+  I love you all
+][
+  사랑하다:  to love
+][
+  여러분:  everyone
+]
+
+#important[
+  사랑하다
+]
+
+#phrase[
+  밀랍남자
+][
+  Wax Men
+][
+  밀랍:  Wax
+][
+  남자:  Man / Male
+]
+
+#phrase[
+  안녕히 계세요
+][
+  Goodbye (If you are leaving and the other person is staying)
+]
+
+#phrase[
+  같이 공부해요
+][
+  Let's study together
+][
+  같이:  together
+][
+  공부하다:  to study
+]
+
+#important[
+  같이
+]
+
+#phrase[
+  여기어디예요
+][
+  Where is here? = Where is this place?
+][
+  여기:  here
+]
+
+#phrase[
+  그거  고양이  아니에요
+][
+  That's not a cat
+][
+  고양이:  cat
+][
+  그: that
+][
+  거: something
+]
+
+#important[
+  - 고양이
+  - 그
+  - 거
+]
+
+#phrase[
+  시간있어요
+][
+  Do you have time?
+][
+  시간:  time (hours)
+]
+
+#doubt[
+  When we just say Subject + Verb, why can we implicitly say that we are asking to someone?
+
+  In English, it's not exactly the same asking:
+
+  - Do you have time?
+  - Have time?
+
+  Even though we could guess by the body language if the person is asking to someone specifically, its not the same. Is there a way of asking explicitly "Do you ...?"
+][]
+
+#phrase[
+  저 학생 아니에요
+][
+  I'm not a student
+][
+  아니에요:  am not
+]
+
+#phrase[
+  차를 마셔요
+][
+  I drink tea / Drink some tea
+][
+  차:  tea
+][
+  마시다:  to drink
+][
+  를:  object particle
+]
+
+#doubt[
+  In this case, how could we differenciate between:
+
+  - "I drink tea"
+  - "Drink some tea"
+  - "He drinks tea" (not sure if this one is also equivalent)
+
+  _I guess the only way it would be by context_
+  _Its easier to use beacuse there are less options, but harder to 
+  understand cause of the same reason_
+][]
+
+#phrase[
+  밥을 먹어요
+][
+  I eat a meal / He eats a meal
+][
+  밥:  meal
+][
+  을:  object marking particle
+]
+
+
 
 
