@@ -1,5 +1,5 @@
 #set document(
-  title: "Vocabulary, Phrases and Type practice",
+  title: "Numbers Practice",
   author: "Juan Ignacio Raggio",
 )
 
@@ -85,7 +85,7 @@
 // ====================================
 
 // Funcion para crear una caja de nota/observacion
-#let note(contenido) = {
+#let nota(contenido) = {
   block(
     fill: rgb("#E3F2FD"),
     stroke: rgb("#1976D2") + 1pt,
@@ -111,7 +111,7 @@
 }
 
 // Funcion para crear una caja de advertencia/importante
-#let important(contenido) = {
+#let importante(contenido) = {
   block(
     fill: rgb("#FFF3E0"),
     stroke: rgb("#F57C00") + 1pt,
@@ -157,6 +157,46 @@
   ]
 }
 
+// Funcion para desglosar frases en coreano con cantidad variable de partes
+#let phrase(frase, significado, ..partes) = {
+  block(
+    fill: rgb("#E8EAF6"),
+    stroke: rgb("#3F51B5") + 1.5pt,
+    inset: 12pt,
+    radius: 5pt,
+    width: 100%,
+  )[
+    // Frase completa
+    #text(weight: "bold", fill: rgb("#3F51B5"), size: 14pt)[전체 문장:]
+    #v(0.5em)
+    #text(size: 18pt, weight: "bold")[#frase]
+    #v(0.3em)
+    #text(size: 13pt, style: "italic")[#significado]
+    
+    // Si hay desglose, mostrarlo
+    #if partes.pos().len() > 0 {
+      v(0.8em)
+      line(length: 100%, stroke: 1pt + rgb("#3F51B5"))
+      v(0.8em)
+      
+      text(weight: "bold", fill: rgb("#3F51B5"), size: 14pt)[분석:]
+      v(0.5em)
+      
+      for parte in partes.pos() {
+        block(
+          fill: rgb("#F5F5F5"),
+          inset: 8pt,
+          radius: 3pt,
+          width: 100%,
+        )[
+          text(size: 14pt, weight: "bold", fill: rgb("#3F51B5"))[#parte]
+        ]
+        v(0.4em)
+      }
+    }
+  ]
+}
+
 // ====================================
 // PORTADA
 // ====================================
@@ -172,12 +212,12 @@
 
   #v(0.5em)
 
-  #text(size: 22pt)[Vocabulary]
+  #text(size: 22pt)[Practice]
 
   #v(1cm)
 
   #text(size: 14pt)[
-    Vocabulary Practice
+    Practice of Sino-Korean numbers
   ]
 
   #v(1cm)
@@ -196,77 +236,17 @@
 
 #pagebreak()
 
-= Vocabulary - Anki practice
+// ====================================
+// TABLA DE CONTENIDOS
+// ====================================
 
-- 진구 $->$  friend / same age person
-
-- 커피 $->$  coffe
-
-- 가다 $->$  to go
-
-- 사람 $->$  person
-
-- 학교 $->$  school
-
-- 말하다 $->$ to speak
-
-- 밥 $->$ rice (cooked) / meal
-
-- 잭 $->$ book
-
-- 선생님 $->$ teacher
-
-- 아버지 $->$ father
-
-- 어머니 $->$ mother
-
-- 어디 $->$  where
-
-- 좋다 $->$ to be good / be nice / to like
-
-- 시간 $->$ time
-
-- 마시다 $->$ to drink
-
-- 보다 $->$ to see
-
-- 영화 $->$ movie
-
-- 공부하다 $->$ to study
-
-- 오다 $->$ to come
-
-- 그 $->$ that
-
-- 미국 $->$  USA
-
-- 하다 $->$ to do
-
-- 크다 $->$ to be big / to grow
-
-#note[
-  저:  It could be "I" but also "that" (over there)
-]
-
-
-#note[
-- 거/것: something
-- 이: It could go after the subject but it also means this
-- 이거 $->$ this thing
-]
-
-- 네 $->$  yes (semi-formal)
-
-- 여자 $->$ woman / female
-
-- 만나다 $->$ to meet
-
-- 오늘 $->$  today
+#outline(
+  title: [Índice],
+  depth: 3,
+  indent: auto,
+)
 
 #pagebreak()
-
-= Sentences - Anki Practice
-
 
 
 
