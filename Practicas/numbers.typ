@@ -189,7 +189,7 @@
           radius: 3pt,
           width: 100%,
         )[
-          text(size: 14pt, weight: "bold", fill: rgb("#3F51B5"))[#parte]
+          #text(size: 14pt, weight: "bold", fill: rgb("#3F51B5"))[#parte]
         ]
         v(0.4em)
       }
@@ -240,13 +240,15 @@
 // TABLA DE CONTENIDOS
 // ====================================
 
-#outline(
-  title: [Índice],
-  depth: 3,
-  indent: auto,
-)
-
 #pagebreak()
 
+= Practicing numbers
+
+#nota[
+  제가 쓸숫자를 랜덤 숫자 생성기로  정하려고요
+]
+
+- 8,590,417,350,572 $->$ 팔만오천구백사억 천칠백삼십오만 오백칠십이
+- 
 
 
