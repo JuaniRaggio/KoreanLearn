@@ -5,7 +5,6 @@
 
 #set page(
   paper: "a4",
-  fill: rgb("#f5e6c8"),
   margin: (
     top: 2.5cm,
     bottom: 2.5cm,
