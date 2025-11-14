@@ -4,9 +4,9 @@
 )
 
 #set text(
-  font: "Noto Sans CJK KR",
+  font: "Apple SD Gothic Neo",
   lang: "ko",
-  size: 16pt,
+  size: 17pt,
 )
 
 // Author: Juani Raggio
@@ -65,7 +65,8 @@
 
 #pagebreak()
 
-= 한자어 수 (Números Chinos se usan para contar)
+= 한자어 수
+_Numeros Sino-Coreanos_
 
 *수 $->$ 숫자* (número)
 
