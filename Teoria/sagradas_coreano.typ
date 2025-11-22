@@ -551,8 +551,6 @@ La forma más formal, se usa en escritura académica y documentos oficiales.
 No mezclar los niveles. Usar solo un tipo de conector en cada oración: 하고 O 랑/이랑 O 와/과.
 ]
 
-#pagebreak()
-
 == Partícula ~도 (también)
 
 La partícula ~도 significa "también" y reemplaza las partículas de sujeto (이/가) u objeto (을/를).
@@ -944,8 +942,6 @@ Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 
 - 생일 축하해요 $->$ ¡Feliz cumpleaños!
 - 화이팅! $->$ ¡Ánimo! / ¡Vamos!
 
-#pagebreak()
-
 == Comandos de Clase
 
 Estos comandos los escucharás constantemente en clase:
@@ -1099,14 +1095,14 @@ ayudar mucho en la adaptacion del idioma
   columns: 2,
   [*Numero*], [*Nombre*],
   [1], [일],
-  [2], [],
-  [3], [],
-  [4], [],
-  [5], [],
-  [6], [],
-  [7], [],
-  [8], [],
-  [9], [],
+  [2], [이],
+  [3], [삼],
+  [4], [사],
+  [5], [오],
+  [6], [육],
+  [7], [실],
+  [8], [팔],
+  [9], [구],
   [10], [십],
   [100], [백],
   [1,000], [천],

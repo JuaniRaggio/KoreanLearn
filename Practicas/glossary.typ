@@ -412,7 +412,7 @@
 ][
   I watch
 ][
-  봐다:  to watch
+  보다:  to watch
 ]
 
 #phrase[
@@ -566,7 +566,10 @@
   _I guess the only way it would be by context_
   _Its easier to use beacuse there are less options, but harder to 
   understand cause of the same reason_
-][]
+][
+  Without 저 its like a suggestion, else you could guess by context. In a text
+  it should be explicit
+]
 
 #phrase[
   밥을 먹어요
@@ -578,6 +581,14 @@
   을:  object marking particle
 ]
 
+
+#phrase[
+  죄송합니다
+][
+  It's easy
+][
+  쉽다: to be easy
+]
 
 
 
