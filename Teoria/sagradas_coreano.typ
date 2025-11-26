@@ -628,6 +628,47 @@ Las palabras interrogativas son fundamentales para hacer preguntas.
 
 #pagebreak()
 
+== Peticiones Corteses: ~(으)세요
+
+La terminacion ~(으)세요 se usa para hacer peticiones o dar instrucciones de manera cortés.
+
+#importante[
+Esta forma es muy usada en clase y en situaciones cotidianas para pedir algo educadamente.
+]
+
+*Estructura:*
+- Raiz termina en consonante $->$ ~으세요
+- Raiz termina en vocal $->$ ~세요
+
+*Ejemplos regulares:*
+- 먹다 $->$ 먹으세요 (coma por favor)
+- 가다 $->$ 가세요 (vaya por favor)
+- 보다 $->$ 보세요 (mire por favor)
+- 주다 $->$ 주세요 (de por favor)
+
+*Frases de ejemplo:*
+- 칠십이 페이지 보세요! $->$ ¡Miren la pagina 72!
+
+=== Verbos Irregulares con ~(으)세요
+
+#error[
+Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memorizar estos patrones.
+]
+
+*Irregular ㅂ* (ㅂ se elimina, se agrega 우):
+- 줍다 $->$ 주우세요 (recoja por favor)
+- 쓰레기를 주우세요 $->$ Recoja la basura por favor
+
+*Irregular ㄷ* (ㄷ cambia a ㄹ):
+- 듣다 $->$ 들으세요 (escuche por favor)
+- 잔나비 노래를 들으세요 $->$ Escuche canciones de Jannabi
+
+*Irregular ㄹ* (ㄹ se elimina):
+- 팔다 $->$ 파세요 (venda por favor)
+- 이 핸드폰을 중고시장에서 파세요 $->$ Venda este celular en el mercado de segunda mano
+
+#pagebreak()
+
 = Vocabulario Esencial
 
 == Pronombres Personales
@@ -817,6 +858,43 @@ Para formar el idioma, usa: País + 어
 - 꽃 $->$ flor
 - 자전거 $->$ bicicleta
 - 자동차 (차) $->$ automóvil
+
+#pagebreak()
+
+== Fechas (날짜)
+
+*Estructura:* ~년 ~월 ~일 (ano, mes, dia)
+
+=== Meses del Ano (월)
+
+#table(
+  columns: 3,
+  [*Mes*], [*Coreano*], [*Nota*],
+  [1월], [일월], [],
+  [2월], [이월], [],
+  [3월], [삼월], [],
+  [4월], [사월], [],
+  [5월], [오월], [],
+  [6월], [유월], [irregular],
+  [7월], [칠월], [],
+  [8월], [팔월], [],
+  [9월], [구월], [],
+  [10월], [시월], [irregular],
+  [11월], [십일월], [],
+  [12월], [십이월], [],
+)
+
+#error[
+6월 se pronuncia 유월 (no 육월) y 10월 se pronuncia 시월 (no 십월). Estos son irregulares.
+]
+
+=== Preguntas sobre Fechas
+
+- 오늘 며칠이에요? $->$ ¿Qué fecha es hoy?
+- 이천이십오년 십일월 십사일이에요 $->$ Es 14 de noviembre de 2025
+
+- 생일 언제예요? $->$ ¿Cuándo es tu cumpleanos?
+- 제 생일은 이천이년 팔월 이십일이에요 $->$ Mi cumpleanos es el 20 de agosto de 2002
 
 #pagebreak()
 
