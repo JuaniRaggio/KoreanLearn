@@ -230,19 +230,6 @@
 
 #pagebreak()
 
-// ====================================
-// TABLA DE CONTENIDOS
-// ====================================
-
-#outline(
-  title: [Índice],
-  depth: 3,
-  indent: auto,
-)
-
-#pagebreak()
-
-
 #table(
   columns: 2,
   align: center,
