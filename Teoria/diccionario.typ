@@ -245,6 +245,14 @@
 = 단너(Vocabulario)
 
 - 창문 $->$ ventana
+- 문 $->$ puerta
+#nota[
+  Ver que ventana y puerta tienen en comun "puerta", pero lo que los
+  distingue es 창 $->$ "ventana literal". Entonces entiendo que 창문 es
+  literalmente "ventana-puerta", que probablemente se refiera a una
+  ventana que se puede abrir
+]
+
 - 커튼 $->$ cortina
 - 액자 $->$ cuadro
 - 침대 $->$ cama
@@ -264,4 +272,16 @@
 - 티비 $->$ televisor
 - 시게 $->$ reloj
 - 티비장 / 거실장 $->$ mesa para televisor
+
+
+== Transportes
+
+- 버스 $->$ bus
+- 배 $->$ barco
+- 앰뷸런스 $->$ ambulancia
+- 자전거 $->$ bicicleta
+- 택시 $->$ taxi
+- 비행기 $->$ avion
+- 차 $->$ auto
+- 기차 $->$ tren
 
