@@ -20,7 +20,7 @@
       columns: (1fr, 1fr, 1fr),
       align: (left, center, right),
       [Juan Ignacio Raggio],
-      [한국어 - 이선주],
+      [한국어 - 서송은],
       [#datetime.today().display("[day]/[month]/[year]")]
     )
     #line(length: 100%, stroke: 0.5pt + gray)
@@ -242,7 +242,18 @@
 
 #pagebreak()
 
+= Tips pronunciacion
+
+#doubt[
+  Hay una letra que nos la hacen asociar con una del alfabeto latin, que no
+  recuerdo cual era que 송은 no lo recomendaba, pero no llegue a anotar cual
+][
+
+]
+
 = 단너(Vocabulario)
+
+== Habitacion
 
 - 창문 $->$ ventana
 - 문 $->$ puerta
@@ -254,34 +265,127 @@
 ]
 
 - 커튼 $->$ cortina
+
 - 액자 $->$ cuadro
+
 - 침대 $->$ cama
+
 - 책 $->$ libro
 - 책꽂이 $->$ biblioteca / estante
 - 책상 $->$ escritorio
+#nota[
+  Notar que los tres:
+
+  _libro, biblioteca, escritorio_
+
+  Contienen "책" == libro, tiene sentido ya que todos tienen que ver con libros
+]
+
 - 의자 $->$ silla
+
 - 스탠드 $->$ lampara de escritorio
+
 - 축구꽁 $->$ pelota de futbol
+
 - 화분 $->$ planta
+
 - 베개 $->$ almohada
+
 - 이불 $->$ frazada
+
 - 전등 $->$ lampara de techo
+
 - 방 $->$ habitacion
-- 슿히퍼 / 실내화 $->$ pantuflas
+
+- 슬리퍼 / 실내화 $->$ pantuflas
+
 - 소파 $->$ sofa
+
 - 티비 $->$ televisor
+
 - 시게 $->$ reloj
+
 - 티비장 / 거실장 $->$ mesa para televisor
 
+\
+
+== Alimentos
+
+- 아이스크림 $->$ helado
+
+- 케이크 $->$ torta
+
+- 계란 $->$ huevo
+
+- 우유 $->$ leche
+
+- 주스 $->$ jugo
+
+- 물 $->$ agua
+
+- 음료수 $->$ gaseosa
+
+- 빵 $->$ pan
+
+- 바나나 $->$ banana
+
+- 치즈 $->$ queso
+
+- 파이 $->$ pastel
+
+- *호박 $->$ calabaza*
+
+- 포도 $->$ uva
+
+- 오렌지 $->$ naranja
+
+- 머핀 $->$ muffin
+
+- 요거트 $->$ 
+
+- 초콜릿 $->$ chocolate
+
+- 고기 $->$ carne
+- 닭고기 $->$ carne de pollo
+#nota[
+  Notemos que ambas tienen en comun "고기" => "carne"
+]
+
+- 토마토 $->$ tomate
+
+- 야채 $->$ 
+
+- 사과 $->$ manzana
+- 과일 $->$ fruta
+#nota[
+  Notemos que ambas tienen en comun "과" => es una fruta
+]
+
+- 소시지 $->$ salchicha
+
+- 양파 $->$ cebolla
+
+- 통조림 $->$ alimentos enlatados
+
+- 오렌지조스 $->$ jugo de naranja
+
+\
 
 == Transportes
 
 - 버스 $->$ bus
+
 - 배 $->$ barco
+
 - 앰뷸런스 $->$ ambulancia
+
 - 자전거 $->$ bicicleta
+
 - 택시 $->$ taxi
+
 - 비행기 $->$ avion
+
 - 차 $->$ auto
+
 - 기차 $->$ tren
 

@@ -64,6 +64,8 @@
 
 #line(length: 100%)
 
+*Importante:* 밧짐 es cuando hay dos o mas *CONSONANTES*, no cuenta si hay dos vocales
+
 = 1. Verbo 이다 (Ser)
 
 == Formal: ~입니다 / ~입니까?
