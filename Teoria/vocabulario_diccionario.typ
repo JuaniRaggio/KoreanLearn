@@ -253,62 +253,6 @@
 
 = 단너(Vocabulario)
 
-== Habitacion
-
-- 창문 $->$ ventana
-- 문 $->$ puerta
-#nota[
-  Ver que ventana y puerta tienen en comun "puerta", pero lo que los
-  distingue es 창 $->$ "ventana literal". Entonces entiendo que 창문 es
-  literalmente "ventana-puerta", que probablemente se refiera a una
-  ventana que se puede abrir
-]
-
-- 커튼 $->$ cortina
-
-- 액자 $->$ cuadro
-
-- 침대 $->$ cama
-
-- 책 $->$ libro
-- 책꽂이 $->$ biblioteca / estante
-- 책상 $->$ escritorio
-#nota[
-  Notar que los tres:
-
-  _libro, biblioteca, escritorio_
-
-  Contienen "책" == libro, tiene sentido ya que todos tienen que ver con libros
-]
-
-- 의자 $->$ silla
-
-- 스탠드 $->$ lampara de escritorio
-
-- 축구꽁 $->$ pelota de futbol
-
-- 화분 $->$ planta
-
-- 베개 $->$ almohada
-
-- 이불 $->$ frazada
-
-- 전등 $->$ lampara de techo
-
-- 방 $->$ habitacion
-
-- 슬리퍼 / 실내화 $->$ pantuflas
-
-- 소파 $->$ sofa
-
-- 티비 $->$ televisor
-
-- 시게 $->$ reloj
-
-- 티비장 / 거실장 $->$ mesa para televisor
-
-\
-
 == Alimentos
 
 - 아이스크림 $->$ helado
@@ -389,3 +333,348 @@
 
 - 기차 $->$ tren
 
+== Pronombres Personales
+
+*Yo:*
+- 저 (formal/semi-formal)
+- 나 (informal)
+
+*Nosotros:*
+- 저희 (formal - cuando se habla de uno mismo)
+- 우리 (general)
+
+#importante[
+Usar 저 y 저희 en situaciones formales. Usar 나 solo con amigos cercanos.
+]
+
+== Nacionalidades
+
+*Patrón:* País + 사람
+
+- 한국 사람 $->$ coreano
+
+- 아르헨티나 사람 $->$ argentino
+
+- 중국 사람 $->$ chino
+
+- 일본 사람 $->$ japonés
+
+- 미국 사람 $->$ estadounidense
+
+- 영국 사람 $->$ británico
+
+- 스페인 사람 $->$ español
+
+- 이탈리아 사람 $->$ italiano
+
+- 태국 사람 $->$ tailandés
+
+- 베트남 사람 $->$ vietnamita
+
+- 브라질 사람 $->$ brasileño
+
+- 멕시코 사람 $->$ mexicano
+
+
+*Idiomas:*
+
+Para formar el idioma, usa: País + 어
+
+- 한국어 $->$ coreano (idioma)
+
+- 스페인어 $->$ español (idioma)
+
+- 영어 $->$ inglés
+
+- 일본어 $->$ japonés (idioma)
+
+- 이탈리아어 $->$ italiano (idioma)
+
+#pagebreak()
+
+== Profesiones (직업)
+
+*Preguntas:*
+- 직업이 뭡니까? (formal)
+
+- 직업이 뭐예요? (semi-formal)
+
+- 직업이 뭐야? (informal)
+
+
+*Profesiones comunes:*
+
+- 학생 $->$ estudiante
+  - 초등학생 $->$ estudiante de primaria
+  - 중학생 $->$ estudiante de secundaria
+  - 고등학생 $->$ estudiante de preparatoria
+  - 대학생 $->$ universitario
+
+- 선생님 $->$ profesor
+
+- 교수님 $->$ profesor universitario
+
+- 회사원 / 직장인 $->$ empleado de oficina
+
+- 의사 $->$ médico
+
+- 간호사 $->$ enfermera
+
+- 경찰 / 경찰관 $->$ policía
+
+- 소방관 $->$ bombero
+
+- 공무원 $->$ funcionario público
+
+- 엔지니어 $->$ ingeniero
+
+- 디자이너 $->$ diseñador
+
+- 쉐프 / 요리사 $->$ chef/cocinero
+
+- 변호사 $->$ abogado
+
+- 건축가 $->$ arquitecto
+
+#pagebreak()
+
+== Lugares (장소)
+
+=== Educación
+- 학교 $->$ escuela
+
+- 초등학교 $->$ escuela primaria
+
+- 중학교 $->$ secundaria
+
+- 고등학교 $->$ preparatoria
+
+- 대학교 $->$ universidad
+
+=== Comercios
+- 가게 $->$ tienda
+
+- 옷가게 $->$ tienda de ropa
+
+- 신발가게 $->$ zapatería
+
+- 빵집 $->$ panadería
+
+- 꽃집 $->$ florería
+
+- 술집 $->$ bar
+
+- 편의점 $->$ tienda 24h
+
+- 마트 $->$ supermercado
+
+- 쇼핑몰 $->$ shopping/plaza
+
+- 백화점 $->$ gran tienda/galería
+
+=== Establecimientos
+- 회사 $->$ empresa
+
+- 집 $->$ casa
+
+- 방 $->$ sala/habitación
+
+- 노래방 $->$ karaoke
+
+- PC방 (피씨방) $->$ cibercafé
+
+- 찜질방 $->$ sauna coreana
+
+- 식당 / 음식점 $->$ restaurante
+
+- 시장 $->$ mercado
+
+- 공원 $->$ parque
+
+- 극장 / 영화관 $->$ teatro/cine
+
+- 공항 $->$ aeropuerto
+
+- 병원 $->$ hospital
+
+- 은행 $->$ banco
+
+- 대사관 $->$ embajada
+
+#pagebreak()
+
+== Objetos de la Casa
+
+=== Salón de clases (교실)
+- 책상 $->$ escritorio
+
+- 의자 $->$ silla
+
+- 펜 $->$ pluma
+
+- 가방 $->$ mochila
+
+- 컴퓨터 $->$ computadora
+
+- 노트북 / 랩탑 $->$ laptop
+
+- 텔레비전 (티비) $->$ televisión
+
+- 책 $->$ libro
+
+- 공책 $->$ cuaderno
+
+- 칠판 $->$ pizarrón
+
+=== Habitación (방 / 침실)
+- 창문 $->$ ventana
+- 문 $->$ puerta
+#nota[
+  Ver que ventana y puerta tienen en comun "puerta", pero lo que los
+  distingue es 창 $->$ "ventana literal". Entonces entiendo que 창문 es
+  literalmente "ventana-puerta", que probablemente se refiera a una
+  ventana que se puede abrir
+]
+
+- 커튼 $->$ cortina
+
+- 액자 $->$ cuadro
+
+- 침대 $->$ cama
+
+- 책 $->$ libro
+- 책꽂이 $->$ biblioteca / estante
+- 책상 $->$ escritorio
+#nota[
+  Notar que los tres:
+
+  _libro, biblioteca, escritorio_
+
+  Contienen "책" == libro, tiene sentido ya que todos tienen que ver con libros
+]
+
+- 의자 $->$ silla
+
+- 스탠드 $->$ lampara de escritorio
+
+- 축구꽁 $->$ pelota de futbol
+
+- 화분 $->$ planta
+
+- 베개 $->$ almohada
+
+- 이불 $->$ frazada
+
+- 전등 $->$ lampara de techo
+
+- 방 $->$ habitacion
+
+- 슬리퍼 / 실내화 $->$ pantuflas
+
+- 소파 $->$ sofa
+
+- 티비 $->$ televisor
+
+- 시게 $->$ reloj
+
+- 티비장 / 거실장 $->$ mesa para televisor
+
+- 책상 $->$ escritorio
+
+- 의자 $->$ silla
+
+- 옷장 $->$ armario
+
+- 책장 $->$ librero
+
+- 나이트테이블 (협탁) $->$ mesa de noche
+
+- 거울 $->$ espejo
+
+- 화장대 $->$ tocador
+
+- 화장하다 $->$ maquillarse
+
+- 화장품 $->$ cosméticos
+
+- 옷 $->$ ropa
+
+=== Cocina (주방 / 부엌)
+- 식탁 $->$ mesa de comedor
+
+- 냉장고 $->$ refrigerador
+
+- 가스 레인지 $->$ estufa de gas
+
+- 전자 레인지 $->$ microondas
+
+- 오븐 $->$ horno
+
+- 믹서기 $->$ licuadora
+
+- 칼 $->$ cuchillo
+
+- 도마 $->$ tabla de cortar
+
+- 그릇 $->$ plato/tazón
+
+- 숟가락 $->$ cuchara
+
+- 젓가락 $->$ palillos
+
+- 포크 $->$ tenedor
+
+- 가위 $->$ tijeras
+
+- 컵 (잔) $->$ vaso/taza
+
+- 후라이팬 $->$ sartén
+
+- 냄비 $->$ olla
+
+=== Baño (화장실 / 욕실)
+- 수건 $->$ toalla
+
+- 휴지 $->$ papel higiénico
+
+- 휴지통 (쓰레기통) $->$ basurero
+
+- 칫솔 $->$ cepillo de dientes
+
+- 치약 $->$ pasta dental
+
+- 샴푸 $->$ champú
+
+- 린스 (트리트먼트) $->$ acondicionador
+
+- 바디워시 $->$ jabón corporal
+
+- 비누 $->$ jabón
+
+- 욕조 $->$ bañera
+
+
+=== Sala (거실)
+- 티비 $->$ TV
+
+- 소파 $->$ sofá
+
+- 거실 테이블 $->$ mesa de sala
+
+- 가족 사진 $->$ foto familiar
+
+=== Balcón (베란다)
+- 김치 냉장고 $->$ refrigerador de kimchi
+
+- 세탁기 $->$ lavadora
+
+- 건조기 $->$ secadora
+
+=== Patio (마당)
+- 나무 $->$ árbol
+
+- 꽃 $->$ flor
+
+- 자전거 $->$ bicicleta
+
+- 자동차 (차) $->$ automóvil

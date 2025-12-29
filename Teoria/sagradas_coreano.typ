@@ -84,6 +84,27 @@
 // FUNCIONES UTILES
 // ====================================
 
+// Funcion para crear una caja de duda con pregunta y respuesta
+#let doubt(pregunta, respuesta) = {
+  block(
+    fill: rgb("#F3E5F5"),
+    stroke: rgb("#7B1FA2") + 1pt,
+    inset: 10pt,
+    radius: 4pt,
+    width: 100%,
+  )[
+    #text(weight: "bold", fill: rgb("#7B1FA2"), size: 11pt)[질문:]
+    #v(0.3em)
+    #pregunta
+    #v(0.5em)
+    #line(length: 100%, stroke: 0.5pt + rgb("#7B1FA2"))
+    #v(0.5em)
+    #text(weight: "bold", fill: rgb("#7B1FA2"), size: 11pt)[대답:]
+    #v(0.3em)
+    #respuesta
+  ]
+}
+
 // Funcion para crear una caja de nota/observacion
 #let nota(contenido) = {
   block(
@@ -264,58 +285,6 @@ Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de 
 
 = Gramática Fundamental
 
-== Verbo Ser (이다)
-
-El verbo 이다 es equivalente al verbo "ser" en español.
-
-#importante[
-El coreano tiene 3 niveles de formalidad que se deben distinguir según el contexto: formal, semi-formal e informal.
-]
-
-=== Formal (~입니다 / ~입니까?)
-
-*Uso:* Con superiores, desconocidos, situaciones oficiales.
-
-*Estructura:* Sustantivo + 입니다 (afirmación) / 입니까? (pregunta)
-
-*Ejemplos:*
-- 저는 이선주입니다 $->$ Soy Lee Sunjoo
-- 저는 후안입니다 $->$ Soy Juan
-- 아르헨티나 사람입니까? $->$ ¿Es argentino?
-- 네, 아르헨티나 사람입니다 $->$ Sí, soy argentino
-
-=== Semi-formal (~이에요 / ~예요)
-
-*Uso:* Situaciones neutras, amigables, conversación cotidiana.
-
-*Estructura:*
-- Consonante final $->$ ~이에요
-- Vocal final $->$ ~예요
-
-*Ejemplos:*
-- 후안이에요 $->$ Soy Juan (termina en consonante ㄴ)
-- 이선주예요 $->$ Soy Lee Seon-ju (termina en vocal ㅜ)
-- 학생이에요? $->$ ¿Es estudiante?
-
-#error[
-No usar 이에요 después de vocal, ni 예요 después de consonante.
-]
-
-=== Informal (~이야 / ~야)
-
-*Uso:* Amigos cercanos, familia, personas de menor edad.
-
-*Estructura:*
-- Consonante final $->$ ~이야
-- Vocal final $->$ ~야
-
-*Ejemplos:*
-- 후안이야 $->$ Soy Juan
-- 아르헨티나 사람이야? $->$ ¿Eres argentino?
-- 응, 아르헨티나 사람이야 $->$ Sí, soy argentino
-
-#pagebreak()
-
 == Conjugación en Presente
 
 La conjugación de verbos regulares en presente sigue patrones basados en las vocales sol/luna.
@@ -345,7 +314,8 @@ Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atenc
 
 #tip[
     Para saber que terminacion usar, basta ver la ultima letra 
-  antes de 다 y decidir si es sol, luna o irregular
+  antes de 다 y decidir si es sol, luna o irregular. Recordar
+  que el 다 se "borra" cuando hacemos la conjugacion
 ]
 
 === Formal (습니다/ㅂ니다)
@@ -369,55 +339,7 @@ Simplemente quita el 요 de la forma semi-formal:
 - 배우다 $->$ 배워 (aprender)
 - 사랑하다 $->$ 사랑해 (amar)
 
-#pagebreak()
-
-== Verbos Específicos Conjugados
-
-Aquí los verbos más comunes que verás en clase:
-
-=== 일하다 (trabajar)
-- 일합니다 / 일해요 / 일해
-- 저는 오늘 일해요 $->$ Hoy trabajo
-
-=== 공부하다 (estudiar)
-- 공부합니다 / 공부해요 / 공부해
-- 오늘 우리는 한국어 공부해요 $->$ Hoy estudiamos coreano
-
-=== 운동하다 (hacer ejercicio)
-- 운동합니다 / 운동해요 / 운동해
-- 마리아 씨는 내일 운동해요 $->$ María hace ejercicio mañana
-
-=== 자다 (dormir)
-- 잡니다 / 자요 / 자
-- 저는 오늘 일찍 자요 $->$ Hoy duermo temprano
-
-#error[
-자다 es irregular: se conjuga como 자요, NO como 자아요
-]
-
-=== 먹다 (comer)
-- 먹습니다 / 먹어요 / 먹어
-- 밥 먹어요 $->$ Como arroz
-
-=== 마시다 (beber)
-- 마십니다 / 마셔요 / 마셔
-- 물 마셔요 $->$ Bebo agua
-
-=== 읽다 (leer)
-- 읽습니다 / 읽어요 / 읽어
-- 책 읽어요 $->$ Leo un libro
-
-=== 전화하다 (llamar)
-- 전화합니다 / 전화해요 / 전화해
-- 엄마는 오늘 전화해요 $->$ Mamá llama hoy
-
-=== 이야기하다 / 말하다 (hablar)
-- 이야기합니다 / 이야기해요 / 이야기해
-- 다니엘은 학교 숙제 이야기해요 $->$ Daniel habla de la tarea
-
-#pagebreak()
-
-== Existencia: 있다 $<=>$ 없다
+=== Existencia (ejemplo de verbo importante): 있다 $<=>$ 없다
 
 Los verbos 있다 (haber/existir/tener) y 없다 (no haber/no existir/no tener) son fundamentales.
 
@@ -427,20 +349,16 @@ Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indi
 
 *Estructura:* [Sustantivo]이/가 있다/없다
 
-- Consonante final $->$ 이
-- Vocal final $->$ 가
+- Con 받침 $->$ 이
+- Sin 받침 $->$ 가
 
-*Conjugaciones:*
-
-*있다:*
-- 있습니다 (formal)
-- 있어요 (semi-formal)
-- 있어 (informal)
-
-*없다:*
-- 없습니다 (formal)
-- 없어요 (semi-formal)
-- 없어 (informal)
+#doubt[
+        Que significa "tener 받침"?
+][
+        Quiere decir que tenes 2 o 3 consonantes en la ultima silaba. Cuando se tiene 받침, la
+        ultima consonante se coloca debajo de la silaba, por ejemplo 책 tiene 받침 ya que tiene
+        dos consonantes, por lo tanto ㄱ (la ultima consonante) se escribe debajo
+]
 
 *Ejemplos básicos:*
 - 책상이 있습니다 $->$ Hay un escritorio
@@ -463,7 +381,9 @@ La partícula ~에 indica ubicación (estar en) o dirección (ir a).
 - 공원에 가요 $->$ Voy al parque
 
 #tip[
-Si la pregunta es "¿Dónde?", usa 어디에. Si es "¿A dónde?", también usa 어디에 가요?
+Si la pregunta es "¿Dónde?" $->$ usa 어디에.
+
+Si es "¿A dónde?" $->$ 어디에 가요?
 ]
 
 *Ejemplos completos:*
@@ -502,6 +422,10 @@ Las preposiciones de lugar son esenciales para describir ubicaciones.
 
 *Patrón de pregunta:*
 - [Objeto] [Posición]에 뭐가 있어요? $->$ ¿Qué hay [posición] de [objeto]?
+
+#error[
+        뭐 no tiene 받침, ya que tiene 1 consonante y 2 VOALES, el 받침 es cuando se tienen 2 o 3 CONSONANTES
+]
 
 *Ejemplos:*
 - 책상 위에 뭐가 있어요? $->$ ¿Qué hay encima del escritorio?
@@ -570,8 +494,6 @@ Al usar 도, no usar 이/가 o 은/는 al mismo tiempo. ~도 las reemplaza.
 
 == Palabras Interrogativas
 
-Las palabras interrogativas son fundamentales para hacer preguntas.
-
 #table(
   columns: 4,
   [*Coreano*], [*Español*], [*Inglés*], [*Ejemplo*],
@@ -584,8 +506,6 @@ Las palabras interrogativas son fundamentales para hacer preguntas.
   [어느], [cuál], [which], [어느 나라 사람이에요?],
   [몇], [cuántos], [how many], [몇 살이에요?],
 )
-
-*Estructura básica:* [Interrogativa] + verbo + (요)?
 
 *Ejemplos detallados:*
 
@@ -669,7 +589,7 @@ Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memoriza
 
 #pagebreak()
 
-= Vocabulario Esencial
+= Vocabulario
 
 == Pronombres Personales
 
@@ -689,7 +609,6 @@ Usar 저 y 저희 en situaciones formales. Usar 나 solo con amigos cercanos.
 
 *Patrón:* País + 사람
 
-Principales países:
 - 한국 사람 $->$ coreano
 - 아르헨티나 사람 $->$ argentino
 - 중국 사람 $->$ chino
