@@ -628,44 +628,6 @@ Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memoriza
 
 #pagebreak()
 
-= Diálogos Modelo
-
-== Conversación 1: Presentación básica
-
-*A:* 안녕하세요? 저는 유키예요. 이름이 뭐예요?
-
-*B:* 안녕하세요? 저는 치엔이에요. 유키 씨는 어느 나라 사람이에요?
-
-*A:* 저는 일본 사람이에요. 치엔 씨는 대만 사람이에요?
-
-*B:* 아니요. 저는 중국 사람이에요.
-
-*A:* 아, 네. 만나서 반가워요. 잘 부탁해요.
-
-*B:* 저도요. 잘 부탁해요.
-
-== Conversación 2: ¿Qué haces hoy?
-
-*A:* 후안 씨, 오늘 뭐 해요?
-
-*B:* 오늘 학교에 가요. 한국어 공부해요. 마리아 씨는요?
-
-*A:* 저는 오늘 집에 있어요. 책 읽어요.
-
-*B:* 아, 네. 좋아요!
-
-== Conversación 3: Ubicaciones
-
-*A:* 가방이 어디에 있어요?
-
-*B:* 방에 있어요. 책상 아래에 있어요.
-
-*A:* 책은 가방 안에 있어요?
-
-*B:* 네, 가방 안에 있어요.
-
-#pagebreak()
-
 = Errores Comunes y Tips Finales
 
 == Errores más frecuentes
