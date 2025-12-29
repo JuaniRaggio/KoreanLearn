@@ -315,3 +315,34 @@
   [충전하다], [Cargar bateria],
   [넣다], [Agregar Poner],
 )
+
+== Acciones (동사)
+
+=== Actividades cotidianas
+- 가다 $->$ ir
+- 일하다 $->$ trabajar
+- 공부하다 $->$ estudiar
+- 운동하다 $->$ hacer ejercicio
+- 자다 $->$ dormir
+- 먹다 $->$ comer
+- 읽다 $->$ leer
+- 쓰다 $->$ escribir
+- 배우다 $->$ aprender
+- 사다 $->$ comprar
+- 만나다 $->$ encontrarse
+
+=== Comunicación
+- 전화하다 $->$ llamar por teléfono
+- 이야기하다 $->$ hablar/contar
+- 말하다 $->$ hablar
+- 듣다 $->$ escuchar
+- 대답하다 $->$ responder
+- 질문하다 $->$ preguntar
+
+=== Otros
+- 사랑하다 $->$ amar
+- 좋아하다 $->$ gustar
+- 마시다 $->$ beber
+- 부탁하다 $->$ pedir un favor
+
+#pagebreak()
