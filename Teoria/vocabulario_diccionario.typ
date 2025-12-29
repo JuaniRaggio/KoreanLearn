@@ -678,3 +678,109 @@ Para formar el idioma, usa: País + 어
 - 자전거 $->$ bicicleta
 
 - 자동차 (차) $->$ automóvil
+
+= Expresiones y Frases Útiles
+
+== Saludos por Nivel de Formalidad
+
+#importante[
+Usar el nivel de formalidad correcto es CRUCIAL en coreano. Puede ser considerado muy maleducado usar el nivel incorrecto.
+]
+
+=== Formal
+- 안녕하십니까? $->$ Hola (formal)
+- 안녕히 계십시오 $->$ Adiós (quédate bien - cuando tú te vas)
+- 안녕히 가십시오 $->$ Adiós (vete bien - cuando la otra persona se va)
+
+=== Semi-formal
+- 안녕하세요? $->$ Hola
+- 안녕히 계세요 $->$ Adiós (quédate bien)
+- 안녕히 가세요 $->$ Adiós (vete bien)
+
+=== Informal
+- 안녕? $->$ Hola
+- 안녕! $->$ Adiós
+
+#tip[
+Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 viene de 가다 (ir). Usar 계세요 cuando uno se va, y 가세요 cuando la otra persona se va.
+]
+
+== Cortesía
+
+=== Agradecer
+
+*Formal:*
+- 고맙습니다
+- 감사합니다
+
+*Semi-formal:*
+- 고마워요
+- 감사해요
+
+*Informal:*
+- 고마워
+- ㄱㅅ (abreviación de texto)
+
+*Respuesta:*
+- 천만에요 $->$ De nada (semi-formal)
+- 천만에 $->$ De nada (informal)
+
+=== Disculparse
+
+*Formal:*
+- 미안합니다
+- 죄송합니다
+
+*Semi-formal:*
+- 미안해요
+- 죄송해요
+
+*Informal:*
+- 미안해
+- 미안
+- ㅈㅅ (abreviación de texto)
+
+=== Respuestas básicas
+
+*Sí:*
+- 예 / 네 (formal/semi-formal)
+- 응 / 어 (informal)
+
+*No:*
+- 아니에요 (semi-formal)
+- 아니야 (informal)
+
+*Está bien:*
+- 괜찮습니다 (formal)
+- 괜찮아요 (semi-formal)
+- 괜찮아 (informal)
+
+== Presentaciones
+
+- 만나서 반갑습니다 $->$ Mucho gusto (formal)
+- 만나서 반가워요 $->$ Mucho gusto (semi-formal)
+- 만나서 반가워 $->$ Mucho gusto (informal)
+- 잘 부탁드립니다 $->$ Bien te pido/encantado de trabajar contigo (formal)
+- 잘 부탁드려요 $->$ ídem (semi-formal)
+- 잘 부탁해 $->$ ídem (informal)
+
+== Celebraciones
+
+- 축하해요! $->$ ¡Felicidades!
+- 생일 축하해요 $->$ ¡Feliz cumpleaños!
+- 화이팅! $->$ ¡Ánimo! / ¡Vamos!
+
+== Comandos de Clase
+
+Estos comandos los escucharás constantemente en clase:
+
+- 책을 펴세요 $->$ Abran el libro
+- 책을 보세요 $->$ Miren el libro
+- 잘 들으세요 $->$ Escuchen bien
+- 따라 하세요 $->$ Repitan
+- 읽으세요 $->$ Lean
+- 쓰세요 $->$ Escriban
+- 질문하세요 $->$ Pregunten
+- 대답하세요 $->$ Respondan
+- 알겠어요? $->$ ¿Entienden?
+- 질문 있어요? $->$ ¿Hay preguntas?
