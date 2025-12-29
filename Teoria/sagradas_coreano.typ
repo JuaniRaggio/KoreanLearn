@@ -290,7 +290,7 @@ Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de 
 La conjugación de verbos regulares en presente sigue patrones basados en las vocales sol/luna.
 
 #importante[
-Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atención a este punto.
+    Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atención a este punto.
 ]
 
 === Semi-formal (아요/어요/해요)
@@ -344,7 +344,7 @@ Simplemente quita el 요 de la forma semi-formal:
 Los verbos 있다 (haber/existir/tener) y 없다 (no haber/no existir/no tener) son fundamentales.
 
 #importante[
-Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indican existencia pura.
+    Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indican existencia pura.
 ]
 
 *Estructura:* [Sustantivo]이/가 있다/없다
@@ -353,11 +353,11 @@ Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indi
 - Sin 받침 $->$ 가
 
 #doubt[
-        Que significa "tener 받침"?
+    Que significa "tener 받침"?
 ][
-        Quiere decir que tenes 2 o 3 consonantes en la ultima silaba. Cuando se tiene 받침, la
-        ultima consonante se coloca debajo de la silaba, por ejemplo 책 tiene 받침 ya que tiene
-        dos consonantes, por lo tanto ㄱ (la ultima consonante) se escribe debajo
+    Quiere decir que tenes 2 o 3 consonantes en la ultima silaba. Cuando se tiene 받침, la
+    ultima consonante se coloca debajo de la silaba, por ejemplo 책 tiene 받침 ya que tiene
+    dos consonantes, por lo tanto ㄱ (la ultima consonante) se escribe debajo
 ]
 
 *Ejemplos básicos:*
@@ -365,6 +365,55 @@ Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indi
 - 의자가 없어요 $->$ No hay silla
 - 펜이 있어 $->$ Hay una pluma
 - 가방이 없습니다 $->$ No hay mochila
+
+== Conjugacion en Futuro
+
+#nota[
+_En este caso usamos 받침 X / O $->$ Sin / Con_
+]
+
+=== Primera regla:
+
+#nota[
+    Esta regla seria "Voy a ..."
+]
+
+- Con 받침 $->$ *~을 거예요*
+- Sin 받침 $->$ *~ㄹ 거예요*
+
+==== Ejemplos:
+
+- 자다 $->$ 자을 거예요
+- 만나다 $->$ 만나을 거예요
+- 있다 $->$ 있을 거예요
+- 먹다 $->$ 먹을 거예요
+
+=== Segunda regla:
+
+#nota[
+    Esta regla seria "Comere", "Cantare", "Ire", etc
+]
+
+- Sin importar 받침 o no $->$ *~겠어요*
+
+==== Ejemplos:
+
+- 자다 $->$ 자겠어요
+- ... $->$ es muy sencillo, se elimina la terminacion y se reemplaza por 겠어요
+
+== Conjugacion en Pasado
+
+#nota[
+    Es mas sencillo partir del presente en este caso. Simplemente pasamos a presente y
+    agregasmos *~ㅆ어요*
+]
+
+- 가다 $->$ 가요 $->$ 갔어요
+- 해다 $->$ 해요 $->$ 했어요
+
+#doubt[
+    Porque lo estamos pasando a presente y no decimos "elimina la terminacion" como en el pasaje a presente?
+][]
 
 #pagebreak()
 
@@ -616,7 +665,7 @@ Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memoriza
 6월 se pronuncia 유월 (no 육월) y 10월 se pronuncia 시월 (no 십월). Estos son irregulares.
 ]
 
-=== Preguntas sobre Fechas
+=== Ejemplos - preguntas sobre fechas
 
 - 오늘 며칠이에요? $->$ ¿Qué fecha es hoy?
 
@@ -625,25 +674,6 @@ Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memoriza
 - 생일 언제예요? $->$ ¿Cuándo es tu cumpleanos?
 
 - 제 생일은 이천이년 팔월 이십일이에요 $->$ Mi cumpleanos es el 20 de agosto de 2002
-
-#pagebreak()
-
-= Errores Comunes y Tips Finales
-
-== Errores más frecuentes
-
-#error[
-Olvidarse que el verbo va al FINAL de la oración.
-Correcto: 저는 집에서 사과를 먹어요 \
-Incorrecto: 저는 먹어요 사과를 집에서
-]
-
-#tip[
-  Intentar *evitar a toda costa* el traducir de español a Coreano,
-en cambio pensar directamente lo que sea que estemos diciendo en
-Coreano. Puede que al principio sea raro o dificil pero va a 
-ayudar mucho en la adaptacion del idioma
-]
 
 #pagebreak()
 
