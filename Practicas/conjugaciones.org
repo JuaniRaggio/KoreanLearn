@@ -1,0 +1,43 @@
+#+title: Conjugaciones
+* Practicando conjugaciones de verbos
+- 가다 $->$ ir
+  - Pasado: 갔어요
+  - Presente: 가요
+  - Futuro (=ire=): 가겠어요 $\rightarrow$ Regla mnemotecnica en español tambien es siempre igual (estudiare, ire, volvere, caminare, correre)
+  - Futuro (voy a ir): 가을 거예요
+
+- 일하다 $->$ trabajar
+  - Presente: 일해요
+  - Pasado: 일했어요
+  - Futuro (=trabajare=): 일하겠어요
+  - Futuro (voy a trabajar): 일할거예요
+
+- 공부하다 $->$ estudiar
+  - Futuro (=estudiare=): 공부하겠어요
+  - Pasado: 공부했어요
+  - Presente: 공부해요
+  - Futuro (voy a estudiar): 공부할거예요
+
+- 운동하다 $->$ hacer ejercicio
+  - Presente: 운동해요
+  - Pasado: 운동했어요
+  - Futuro (ejercitare): 운동하겠어요
+  - Futuro (voy a ejercitar): 운동할거예요
+
+- 자다 $->$ dormir
+- 먹다 $->$ comer
+  - Presente: 먹어요
+  - Futuro (comere): =먹겠어요= $\rightarrow$ Aca pasa lo mismo que abajo, que se juntan dos ㄱ. *Me veo venir que no deberian juntarse, pero en el ejemplo de leere, como te quedan 4 letras en una silaba, me pinto esa.*
+  - Futuro (voy a comer): 먹을거예요
+  - Pasado: 먹었어요
+
+- 읽다 $->$ leer
+  - =Futuro (leere): 일껬어요= $\rightarrow$ esta bien este? cuando se juntan dos ㄱ se pasa siempre a ㄲ? Igualmente ahora que lo pienso, es como que te quedarian "6 letras" si lo dejo como ahora, por ㄱ + ㄱ = ㄲ, ㅓ + ㅣ = ㅔ, ㅅ + ㅅ = ㅆ aunque no necesariamente estaria mal, pero lo digo como dato
+  - Futuro (voy a leer): 읽을거예요
+  - Presente: 읽어요
+  - Pasado: 읽었어요
+
+- 쓰다 $->$ escribir
+- 배우다 $->$ aprender
+- 사다 $->$ comprar
+- 만나다 $->$ encontrarse
