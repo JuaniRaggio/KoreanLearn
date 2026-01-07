@@ -409,7 +409,7 @@ _En este caso usamos 받침 X / O $->$ Sin / Con_
 ]
 
 - 가다 $->$ 가요 $->$ 갔어요
-- 해다 $->$ 해요 $->$ 했어요
+- 하다 $->$ 해요 $->$ 했어요
 
 #doubt[
     Porque lo estamos pasando a presente y no decimos "elimina la terminacion" como en el pasaje a presente?

@@ -292,7 +292,7 @@
 - 고기 $->$ carne
 - 닭고기 $->$ carne de pollo
 #nota[
-  Notemos que ambas tienen en comun "고기" => "carne"
+  Notemos que ambas tienen en comun "고기" $=>$ "carne"
 ]
 
 - 토마토 $->$ tomate
@@ -302,7 +302,7 @@
 - 사과 $->$ manzana
 - 과일 $->$ fruta
 #nota[
-  Notemos que ambas tienen en comun "과" => es una fruta
+  Notemos que ambas tienen en comun "과" $=>$ es una fruta
 ]
 
 - 소시지 $->$ salchicha
