@@ -41,3 +41,24 @@
 - 배우다 $->$ aprender
 - 사다 $->$ comprar
 - 만나다 $->$ encontrarse
+
+* TODO Profesion y conjugar en pasado
+SCHEDULED: <2026-01-07 Wed>
+
+** 누구 누가 (Quien) - Conjugacion tiempo pasado
+
+1. 학생 이 연습했어요
+2. 경찰 이 늦었어요
+3. 소방관 이 운동하다
+4. 선생님 이 생각했어요
+5. 대학생 이 읽었어요
+6. 간호사 가 봤어요
+
+** 누구 누가 (Quien) - Conjugacion tiempo futuro
+
+1. 학생 이 연습할거예요
+2. 경찰 이 늦을거예요
+3. 소방관 이 운동을거예요
+4. 선생님 이 생각할거예요 / 생각하겠어요 (este segundo tiene mas enfasis en la deteminacion)
+5. 대학생 이 읽을거예요
+6. 간호사 가 볼거예요 / 보겠어요

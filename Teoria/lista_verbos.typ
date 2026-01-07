@@ -338,6 +338,7 @@
 - 듣다 $->$ escuchar
 - 대답하다 $->$ responder
 - 질문하다 $->$ preguntar
+- 가르치다 $->$ enseñar
 
 === Otros
 - 사랑하다 $->$ amar
