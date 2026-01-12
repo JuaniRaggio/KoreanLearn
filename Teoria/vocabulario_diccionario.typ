@@ -687,19 +687,20 @@ Para formar el idioma, usa: País + 어
 Usar el nivel de formalidad correcto es CRUCIAL en coreano. Puede ser considerado muy maleducado usar el nivel incorrecto.
 ]
 
-=== Formal
 - 안녕하십니까? $->$ Hola (formal)
-- 안녕히 계십시오 $->$ Adiós (quédate bien - cuando tú te vas)
-- 안녕히 가십시오 $->$ Adiós (vete bien - cuando la otra persona se va)
-
-=== Semi-formal
 - 안녕하세요? $->$ Hola
-- 안녕히 계세요 $->$ Adiós (quédate bien)
-- 안녕히 가세요 $->$ Adiós (vete bien)
-
-=== Informal
 - 안녕? $->$ Hola
+
+- 안녕히 계십시오 $->$ Adiós (quédate bien - cuando tú te vas)
+- 안녕히 계세요 $->$ Adiós (quédate bien)
+
+- 안녕히 가십시오 $->$ Adiós (vete bien - cuando la otra persona se va)
+- 안녕히 가세요 $->$ Adiós (vete bien)
 - 안녕! $->$ Adiós
+
+
+- 한국어 할 수 있어요? $->$ Hablas coreano?
+
 
 #tip[
 Para recordar 계세요 vs 가세요: 계 viene de 있다 (quedarse/estar), 가 viene de 가다 (ir). Usar 계세요 cuando uno se va, y 가세요 cuando la otra persona se va.
