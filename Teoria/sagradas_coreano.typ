@@ -259,6 +259,12 @@ Esta clasificación de vocales sol/luna es FUNDAMENTAL para la conjugación de v
 Regla mnemotécnica: Las vocales "sol" tienen líneas verticales u horizontales arriba (ㅏ, ㅗ), como el sol en el cielo. Las vocales "luna" tienen líneas a la izquierda o abajo (ㅓ, ㅜ).
 ]
 
+== Reglas importantes
+
+#nota[
+  Hay algunas reglas que nunca me dijeron sobre la pronunciación que escuche en TTMIK y son las siguientes
+]
+
 == Trabalenguas (잰말놀이)
 
 Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de los más usados:

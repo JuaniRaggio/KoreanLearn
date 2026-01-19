@@ -1,7 +1,7 @@
 #set text(
-  font: "Noto Sans CJK KR",
+  font: "D2Coding",
   lang: "ko",
-  size: 20pt,
+  size: 17pt,
 )
 
 #set page(
