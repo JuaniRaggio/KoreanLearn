@@ -330,6 +330,7 @@
 - 배우다 $->$ aprender
 - 사다 $->$ comprar
 - 만나다 $->$ encontrarse
+- 뻬다 $->$ ocultar
 
 === Comunicación
 - 전화하다 $->$ llamar por teléfono
