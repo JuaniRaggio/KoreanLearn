@@ -19,9 +19,7 @@
     #grid(
       columns: (1fr, 1fr, 1fr),
       align: (left, center, right),
-      [Juan Ignacio Raggio],
-      [한국어 - 이선주],
-      [#datetime.today().display("[day]/[month]/[year]")]
+      [Juan Ignacio Raggio], [한국어 - 이선주], [#datetime.today().display("[day]/[month]/[year]")],
     )
     #line(length: 100%, stroke: 0.5pt + gray)
   ],
@@ -33,7 +31,7 @@
     #align(center)[
       Pagina #counter(page).display() de #counter(page).final().first()
     ]
-  ]
+  ],
 )
 
 #set text(
@@ -217,19 +215,19 @@
 Este documento utiliza cajas de colores para resaltar información importante:
 
 #tip[
-팁 - Consejos prácticos y reglas mnemotécnicas que facilitan el aprendizaje.
+  팁 - Consejos prácticos y reglas mnemotécnicas que facilitan el aprendizaje.
 ]
 
 #importante[
-중요 - Información fundamental que debe memorizarse o que tiene un impacto significativo en la comunicación.
+  중요 - Información fundamental que debe memorizarse o que tiene un impacto significativo en la comunicación.
 ]
 
 #error[
-주의 - Errores comunes que deben evitarse. Incluye ejemplos de uso incorrecto y correcto.
+  주의 - Errores comunes que deben evitarse. Incluye ejemplos de uso incorrecto y correcto.
 ]
 
 #nota[
-참고 - Referencias adicionales y aclaraciones para profundizar en el tema.
+  참고 - Referencias adicionales y aclaraciones para profundizar en el tema.
 ]
 
 #pagebreak()
@@ -241,7 +239,7 @@ Este documento utiliza cajas de colores para resaltar información importante:
 Las vocales coreanas se dividen en dos categorías importantes: vocales "sol" y vocales "luna".
 
 #importante[
-Esta clasificación de vocales sol/luna es FUNDAMENTAL para la conjugación de verbos. Memorizarla ahorrará muchísimos errores.
+  Esta clasificación de vocales sol/luna es FUNDAMENTAL para la conjugación de verbos. Memorizarla ahorrará muchísimos errores.
 ]
 
 *Vocales Sol (Yang - 양):*
@@ -256,7 +254,7 @@ Esta clasificación de vocales sol/luna es FUNDAMENTAL para la conjugación de v
 - ㅣ (i)
 
 #tip[
-Regla mnemotécnica: Las vocales "sol" tienen líneas verticales u horizontales arriba (ㅏ, ㅗ), como el sol en el cielo. Las vocales "luna" tienen líneas a la izquierda o abajo (ㅓ, ㅜ).
+  Regla mnemotécnica: Las vocales "sol" tienen líneas verticales u horizontales arriba (ㅏ, ㅗ), como el sol en el cielo. Las vocales "luna" tienen líneas a la izquierda o abajo (ㅓ, ㅜ).
 ]
 
 == Reglas importantes
@@ -270,22 +268,22 @@ Regla mnemotécnica: Las vocales "sol" tienen líneas verticales u horizontales 
 Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de los más usados:
 
 1. *육통통장 적금은 \
-황색적금통장이고 \
-팔통통장 적금통장은 \
-녹색적금통장이다*
+  황색적금통장이고 \
+  팔통통장 적금통장은 \
+  녹색적금통장이다*
 
 2. *작은 토끼 토끼통\
-옆에는 큰 토끼 \
-토끼통이 있고 큰 \
-토끼 토끼통 옆에는 \
-작은 토끼 토끼통이 있다*
+  옆에는 큰 토끼 \
+  토끼통이 있고 큰 \
+  토끼 토끼통 옆에는 \
+  작은 토끼 토끼통이 있다*
 
 3. *봄 꿀밤, 단 꿀밤 가을 꿀밤, 안 단 꿀밤*
 
 4. *경찰청창살은 \
-외철창살이고 \
-검찰청창살은 \
-쌍철창살이다*
+  외철창살이고 \
+  검찰청창살은 \
+  쌍철창살이다*
 
 #pagebreak()
 
@@ -296,7 +294,7 @@ Los trabalenguas son excelentes para practicar pronunciación. Aquí algunos de 
 La conjugación de verbos regulares en presente sigue patrones basados en las vocales sol/luna.
 
 #importante[
-    Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atención a este punto.
+  Aquí es donde se usa la clasificación de vocales sol/luna. Prestar mucha atención a este punto.
 ]
 
 === Semi-formal (아요/어요/해요)
@@ -304,22 +302,22 @@ La conjugación de verbos regulares en presente sigue patrones basados en las vo
 *Reglas:*
 
 1. *Vocal sol (ㅏ, ㅗ) $->$ 아요*
-   - 가다 $->$ 가요 (ir)
-   - 사다 $->$ 사요 (comprar)
-   - 만나다 $->$ 만나요 (encontrarse)
+  - 가다 $->$ 가요 (ir)
+  - 사다 $->$ 사요 (comprar)
+  - 만나다 $->$ 만나요 (encontrarse)
 
 2. *Vocal luna (ㅓ, ㅜ, ㅔ, ㅕ, ㅣ) $->$ 어요*
-   - 먹다 $->$ 먹어요 (comer)
-   - 읽다 $->$ 읽어요 (leer)
-   - 배우다 $->$ 배워요 (aprender)
+  - 먹다 $->$ 먹어요 (comer)
+  - 읽다 $->$ 읽어요 (leer)
+  - 배우다 $->$ 배워요 (aprender)
 
 3. *하다 $->$ 해요* (irregular)
-   - 공부하다 $->$ 공부해요 (estudiar)
-   - 운동하다 $->$ 운동해요 (hacer ejercicio)
-   - 사랑하다 $->$ 사랑해요 (amar)
+  - 공부하다 $->$ 공부해요 (estudiar)
+  - 운동하다 $->$ 운동해요 (hacer ejercicio)
+  - 사랑하다 $->$ 사랑해요 (amar)
 
 #tip[
-    Para saber que terminacion usar, basta ver la ultima letra 
+  Para saber que terminacion usar, basta ver la ultima letra
   antes de 다 y decidir si es sol, luna o irregular. Recordar
   que el 다 se "borra" cuando hacemos la conjugacion
 ]
@@ -350,7 +348,7 @@ Simplemente quita el 요 de la forma semi-formal:
 Los verbos 있다 (haber/existir/tener) y 없다 (no haber/no existir/no tener) son fundamentales.
 
 #importante[
-    Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indican existencia pura.
+  Estos verbos usan la partícula 이/가 (sujeto) en lugar de 은/는 cuando indican existencia pura.
 ]
 
 *Estructura:* [Sustantivo]이/가 있다/없다
@@ -359,11 +357,11 @@ Los verbos 있다 (haber/existir/tener) y 없다 (no haber/no existir/no tener) 
 - Sin 받침 $->$ 가
 
 #doubt[
-    Que significa "tener 받침"?
+  Que significa "tener 받침"?
 ][
-    Quiere decir que tenes 2 o 3 consonantes en la ultima silaba. Cuando se tiene 받침, la
-    ultima consonante se coloca debajo de la silaba, por ejemplo 책 tiene 받침 ya que tiene
-    dos consonantes, por lo tanto ㄱ (la ultima consonante) se escribe debajo
+  Quiere decir que tenes 2 o 3 consonantes en la ultima silaba. Cuando se tiene 받침, la
+  ultima consonante se coloca debajo de la silaba, por ejemplo 책 tiene 받침 ya que tiene
+  dos consonantes, por lo tanto ㄱ (la ultima consonante) se escribe debajo
 ]
 
 *Ejemplos básicos:*
@@ -375,13 +373,13 @@ Los verbos 있다 (haber/existir/tener) y 없다 (no haber/no existir/no tener) 
 == Conjugacion en Futuro
 
 #nota[
-_En este caso usamos 받침 X / O $->$ Sin / Con_
+  _En este caso usamos 받침 X / O $->$ Sin / Con_
 ]
 
 === Primera regla:
 
 #nota[
-    Esta regla seria "Voy a ..."
+  Esta regla seria "Voy a ..."
 ]
 
 - Con 받침 $->$ *~을 거예요*
@@ -389,15 +387,15 @@ _En este caso usamos 받침 X / O $->$ Sin / Con_
 
 ==== Ejemplos:
 
-- 자다 $->$ 자을 거예요
-- 만나다 $->$ 만나을 거예요
+- 자다 $->$ 절 거예요
+- 만나다 $->$ 만날 거예요
 - 있다 $->$ 있을 거예요
 - 먹다 $->$ 먹을 거예요
 
 === Segunda regla:
 
 #nota[
-    Esta regla seria "Comere", "Cantare", "Ire", etc
+  Esta regla seria "Comere", "Cantare", "Ire", etc
 ]
 
 - Sin importar 받침 o no $->$ *~겠어요*
@@ -410,16 +408,12 @@ _En este caso usamos 받침 X / O $->$ Sin / Con_
 == Conjugacion en Pasado
 
 #nota[
-    Es mas sencillo partir del presente en este caso. Simplemente pasamos a presente y
-    agregasmos *~ㅆ어요*
+  Es mas sencillo partir del presente en este caso. Simplemente pasamos a presente, le sacamos el 요 y
+  agregamos *~ㅆ어요*
 ]
 
 - 가다 $->$ 가요 $->$ 갔어요
 - 하다 $->$ 해요 $->$ 했어요
-
-#doubt[
-    Porque lo estamos pasando a presente y no decimos "elimina la terminacion" como en el pasaje a presente?
-][]
 
 #pagebreak()
 
@@ -436,9 +430,9 @@ La partícula ~에 indica ubicación (estar en) o dirección (ir a).
 - 공원에 가요 $->$ Voy al parque
 
 #tip[
-Si la pregunta es "¿Dónde?" $->$ usa 어디에.
+  Si la pregunta es "¿Dónde?" $->$ usa 어디에.
 
-Si es "¿A dónde?" $->$ 어디에 가요?
+  Si es "¿A dónde?" $->$ 어디에 가요?
 ]
 
 *Ejemplos completos:*
@@ -472,14 +466,14 @@ Las preposiciones de lugar son esenciales para describir ubicaciones.
 )
 
 #nota[
-아래 y 밑 son sinónimos, ambos significan "debajo".
+  아래 y 밑 son sinónimos, ambos significan "debajo".
 ]
 
 *Patrón de pregunta:*
 - [Objeto] [Posición]에 뭐가 있어요? $->$ ¿Qué hay [posición] de [objeto]?
 
 #error[
-        뭐 no tiene 받침, ya que tiene 1 consonante y 2 VOALES, el 받침 es cuando se tienen 2 o 3 CONSONANTES
+  뭐 no tiene 받침, ya que tiene 1 consonante y 2 VOALES, el 받침 es cuando se tienen 2 o 3 CONSONANTES
 ]
 
 *Ejemplos:*
@@ -527,7 +521,7 @@ La forma más formal, se usa en escritura académica y documentos oficiales.
 - 한국과 아르헨티나 $->$ Corea y Argentina
 
 #error[
-No mezclar los niveles. Usar solo un tipo de conector en cada oración: 하고 O 랑/이랑 O 와/과.
+  No mezclar los niveles. Usar solo un tipo de conector en cada oración: 하고 O 랑/이랑 O 와/과.
 ]
 
 == Partícula ~도 (también)
@@ -542,7 +536,7 @@ La partícula ~도 significa "también" y reemplaza las partículas de sujeto (�
 - 후안도 한국어 공부해요 $->$ Juan también estudia coreano
 
 #tip[
-Al usar 도, no usar 이/가 o 은/는 al mismo tiempo. ~도 las reemplaza.
+  Al usar 도, no usar 이/가 o 은/는 al mismo tiempo. ~도 las reemplaza.
 ]
 
 #pagebreak()
@@ -570,7 +564,7 @@ Al usar 도, no usar 이/가 o 은/는 al mismo tiempo. ~도 las reemplaza.
 - 뭐 해요? $->$ ¿Qué haces?
 
 #nota[
-뭐 es la forma corta de 무엇. En conversación se usa casi siempre 뭐.
+  뭐 es la forma corta de 무엇. En conversación se usa casi siempre 뭐.
 ]
 
 === 누구 (quién)
@@ -608,7 +602,7 @@ Al usar 도, no usar 이/가 o 은/는 al mismo tiempo. ~도 las reemplaza.
 La terminacion ~(으)세요 se usa para hacer peticiones o dar instrucciones de manera cortés.
 
 #importante[
-Esta forma es muy usada en clase y en situaciones cotidianas para pedir algo educadamente.
+  Esta forma es muy usada en clase y en situaciones cotidianas para pedir algo educadamente.
 ]
 
 *Estructura:*
@@ -627,7 +621,7 @@ Esta forma es muy usada en clase y en situaciones cotidianas para pedir algo edu
 === Verbos Irregulares con ~(으)세요
 
 #error[
-Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memorizar estos patrones.
+  Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memorizar estos patrones.
 ]
 
 *Irregular ㅂ* (ㅂ se elimina, se agrega 우):
@@ -668,7 +662,7 @@ Algunos verbos tienen cambios irregulares al conjugar con ~(으)세요. Memoriza
 )
 
 #error[
-6월 se pronuncia 유월 (no 육월) y 10월 se pronuncia 시월 (no 십월). Estos son irregulares.
+  6월 se pronuncia 유월 (no 육월) y 10월 se pronuncia 시월 (no 십월). Estos son irregulares.
 ]
 
 === Ejemplos - preguntas sobre fechas
