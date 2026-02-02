@@ -529,6 +529,7 @@ Para formar el idioma, usa: País + 어
 === Habitación (방 / 침실)
 - 창문 $->$ ventana
 - 문 $->$ puerta
+
 #nota[
   Ver que ventana y puerta tienen en comun "puerta", pero lo que los
   distingue es 창 $->$ "ventana literal". Entonces entiendo que 창문 es
@@ -545,6 +546,7 @@ Para formar el idioma, usa: País + 어
 - 책 $->$ libro
 - 책꽂이 $->$ biblioteca / estante
 - 책상 $->$ escritorio
+
 #nota[
   Notar que los tres:
 
@@ -785,3 +787,50 @@ Estos comandos los escucharás constantemente en clase:
 - 대답하세요 $->$ Respondan
 - 알겠어요? $->$ ¿Entienden?
 - 질문 있어요? $->$ ¿Hay preguntas?
+
+
+== Indicadores de tiempo
+
+=== Llevan 에
+
+- 월요일 $->$ Lunes
+- 화요일 $->$ Martes
+- 수요일 $->$ Miercoles
+- 목요일 $->$ Jueves
+- 금요일 $->$ Viernes
+- 토요일 $->$ Sabado
+- 일요일 $->$ Domingo
+
+- 아침 $->$ Manana
+- 점심 $->$ Mediodia
+- 오후 $->$ Tarde
+- 저녁 $->$ Atardecer
+- 밤 $->$ Noche
+- 새벽 $->$ Madrugada
+- 주말 $->$ Fin de semana
+- 주중 $->$ Entre la semana
+- 올해 $->$ This year
+- 작년 $->$ 
+- 내년 $->$ Next year
+- 평일 $->$ Dias habiles
+- 휴일 $->$ Feriado
+
+=== NO llevan 에
+
+- 지금 $->$ Ahora
+- 방금 $->$ Recien
+- 이따가 $->$ En un rato
+- 나중에 $->$ Despues
+- 가끔 $->$ A veces
+- 항상 $->$ Siempre
+- 매일 $->$ Todos los dias
+- 금방 $->$ Ya
+- 일찍 $->$ Temprano
+- 읒게 $->$ Tarde
+- 오을 $->$ Hoy
+- 어제 $->$ Ayer
+- 내일 $->$ Morning
+- 아까 $->$ Hace un rato
+- 요즘 $->$ Ultimamente / En estos dias
+
+
