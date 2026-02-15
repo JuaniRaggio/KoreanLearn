@@ -306,11 +306,8 @@
 ]
 
 - 소시지 $->$ salchicha
-
 - 양파 $->$ cebolla
-
 - 통조림 $->$ alimentos enlatados
-
 - 오렌지조스 $->$ jugo de naranja
 
 \
@@ -318,19 +315,12 @@
 == Transportes
 
 - 버스 $->$ bus
-
 - 배 $->$ barco
-
 - 앰뷸런스 $->$ ambulancia
-
 - 자전거 $->$ bicicleta
-
 - 택시 $->$ taxi
-
 - 비행기 $->$ avion
-
 - 차 $->$ auto
-
 - 기차 $->$ tren
 
 == Pronombres Personales
@@ -352,42 +342,26 @@ Usar 저 y 저희 en situaciones formales. Usar 나 solo con amigos cercanos.
 *Patrón:* País + 사람
 
 - 한국 사람 $->$ coreano
-
 - 아르헨티나 사람 $->$ argentino
-
 - 중국 사람 $->$ chino
-
 - 일본 사람 $->$ japonés
-
 - 미국 사람 $->$ estadounidense
-
 - 영국 사람 $->$ británico
-
 - 스페인 사람 $->$ español
-
 - 이탈리아 사람 $->$ italiano
-
 - 태국 사람 $->$ tailandés
-
 - 베트남 사람 $->$ vietnamita
-
 - 브라질 사람 $->$ brasileño
-
 - 멕시코 사람 $->$ mexicano
 
 
 *Idiomas:*
 
 Para formar el idioma, usa: País + 어
-
 - 한국어 $->$ coreano (idioma)
-
 - 스페인어 $->$ español (idioma)
-
 - 영어 $->$ inglés
-
 - 일본어 $->$ japonés (idioma)
-
 - 이탈리아어 $->$ italiano (idioma)
 
 #pagebreak()
@@ -396,9 +370,7 @@ Para formar el idioma, usa: País + 어
 
 *Preguntas:*
 - 직업이 뭡니까? (formal)
-
 - 직업이 뭐예요? (semi-formal)
-
 - 직업이 뭐야? (informal)
 
 
@@ -411,29 +383,17 @@ Para formar el idioma, usa: País + 어
   - 대학생 $->$ universitario
 
 - 선생님 $->$ profesor
-
 - 교수님 $->$ profesor universitario
-
 - 회사원 / 직장인 $->$ empleado de oficina
-
 - 의사 $->$ médico
-
 - 간호사 $->$ enfermera
-
 - 경찰 / 경찰관 $->$ policía
-
 - 소방관 $->$ bombero
-
 - 공무원 $->$ funcionario público
-
 - 엔지니어 $->$ ingeniero
-
 - 디자이너 $->$ diseñador
-
 - 쉐프 / 요리사 $->$ chef/cocinero
-
 - 변호사 $->$ abogado
-
 - 건축가 $->$ arquitecto
 
 #pagebreak()
@@ -442,63 +402,37 @@ Para formar el idioma, usa: País + 어
 
 === Educación
 - 학교 $->$ escuela
-
 - 초등학교 $->$ escuela primaria
-
 - 중학교 $->$ secundaria
-
 - 고등학교 $->$ preparatoria
-
 - 대학교 $->$ universidad
 
 === Comercios
 - 가게 $->$ tienda
-
 - 옷가게 $->$ tienda de ropa
-
 - 신발가게 $->$ zapatería
-
 - 빵집 $->$ panadería
-
 - 꽃집 $->$ florería
-
 - 술집 $->$ bar
-
 - 편의점 $->$ tienda 24h
-
 - 마트 $->$ supermercado
-
 - 쇼핑몰 $->$ shopping/plaza
-
 - 백화점 $->$ gran tienda/galería
 
 === Establecimientos
 - 회사 $->$ empresa
-
 - 집 $->$ casa
-
 - 방 $->$ sala/habitación
-
 - 노래방 $->$ karaoke
-
 - PC방 (피씨방) $->$ cibercafé
-
 - 찜질방 $->$ sauna coreana
-
 - 식당 / 음식점 $->$ restaurante
-
 - 시장 $->$ mercado
-
 - 공원 $->$ parque
-
 - 극장 / 영화관 $->$ teatro/cine
-
 - 공항 $->$ aeropuerto
-
 - 병원 $->$ hospital
-
 - 은행 $->$ banco
-
 - 대사관 $->$ embajada
 
 #pagebreak()
@@ -507,23 +441,14 @@ Para formar el idioma, usa: País + 어
 
 === Salón de clases (교실)
 - 책상 $->$ escritorio
-
 - 의자 $->$ silla
-
 - 펜 $->$ pluma
-
 - 가방 $->$ mochila
-
 - 컴퓨터 $->$ computadora
-
 - 노트북 / 랩탑 $->$ laptop
-
 - 텔레비전 (티비) $->$ televisión
-
 - 책 $->$ libro
-
 - 공책 $->$ cuaderno
-
 - 칠판 $->$ pizarrón
 
 === Habitación (방 / 침실)
@@ -538,9 +463,7 @@ Para formar el idioma, usa: País + 어
 ]
 
 - 커튼 $->$ cortina
-
 - 액자 $->$ cuadro
-
 - 침대 $->$ cama
 
 - 책 $->$ libro
@@ -824,7 +747,7 @@ Estos comandos los escucharás constantemente en clase:
 - 가끔 $->$ A veces
 - 항상 $->$ Siempre
 - 매일 $->$ Todos los dias
-- 금방 $->$ Ya
+- 금방 $->$ Enseguida / Rapido / Ya (caso ya vuelvo)
 - 일찍 $->$ Temprano
 - 읒게 $->$ Tarde
 - 오을 $->$ Hoy

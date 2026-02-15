@@ -314,6 +314,7 @@
   [놓다], [Dejar soltar],
   [충전하다], [Cargar bateria],
   [넣다], [Agregar Poner],
+  [일어나다], [Levantarse(de la cama) o Ocurrir/suceder]
 )
 
 == Acciones (동사)
@@ -336,10 +337,19 @@
 - 전화하다 $->$ llamar por teléfono
 - 이야기하다 $->$ hablar/contar
 - 말하다 $->$ hablar
-- 듣다 $->$ escuchar
+- 듣다 $->$ escuchar *Ojo porque se conjuga* $->$ *들어요*
 - 대답하다 $->$ responder
 - 질문하다 $->$ preguntar
 - 가르치다 $->$ enseñar
+
+#phrase[
+  음악 들어요
+][
+  Listen to music
+][
+  음악: Music
+  을어요: Listen in present
+]
 
 === Otros
 - 사랑하다 $->$ amar
