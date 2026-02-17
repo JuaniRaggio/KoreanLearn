@@ -182,15 +182,19 @@ ahora se puede ver no solo en una exposicion, sino que se puede ver y comprar di
 #nota[
   Siempre cuando decimos tiempos tipo
   월요일, 저녁, etc. hay que usar del mas general al mas especifico
+
+  \
+
+  일: Dia
 ]
 
-1. 재일은 뭐를 해요?
+1. 내일은 뭐를 해요?
 
 2. 주말에 뭐를 했어요?
 
 3. 한숫어 수업이 언제 있어요?
 
-4.
+4. 매일 일했어요?
 
 5. 오늘 저녁에 뭐를 할 거예요?
 공원을 운동할 거예요
@@ -216,8 +220,8 @@ ahora se puede ver no solo en una exposicion, sino que se puede ver y comprar di
 
 1. 매주 수요일에 저는 수업을 있어요
 #doubt[
-  En este caso 매주 수요일에 저는 수업이 있어요, esta bien usar el
-  을? 
+  En este caso 저는 매주 수요일에 수업이 있어요, esta bien usar el
+  을? => NO, hay que usar siempre 이 하고 있어요 
   Entiendo que se piensa como que "la clase" es la que esta 
   *"haciendo la accion de existir"* o como seria la forma de 
   decirlo usando 저
