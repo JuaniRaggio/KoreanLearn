@@ -127,5 +127,93 @@ Desde hoy comienza la venta a 3100 (31 millones de wones) en los supermercados \
 Es el robot humanoide de una empresa china que se convirtio en un tema destacado el pasado CES 2026 \
 ahora se puede ver no solo en una exposicion, sino que se puede ver y comprar directamente en el supermercado. \
 
+\
+
+= 질문을 만드새요
+
+1. ...? 주말에 엄마하고 저녁을 먹었어요
+
+2. ...? 화요일 아침에 한국어 수업이있어요
+
+3. ...? 방금 오빠하고 통후ㅏ했어요
+
+4.
+
+5.
+
+6.
+
+\
+
+= 질문에 갑하세요
+
+가) 언제 커피를 마셨어요?
+오늘 새벽에 마셨어요
+
+나) 누가 피자를 먹을 거예요?
+송은가 먹을 거예요
+
+다) 효리가 드하마를 봤어요?
+네, 맞아요.
+
+라) 수요일에 한국어 수업이 있어요?
+아니요, 화요일 하고 일요일에 한국어 수업이 있어요
+
+마) 언제 민수가 자요?
+매일 점심 하고 밤에 민수가 자요
+
+바) 금요일에 친구를 만날 거예요?
+네, 맞아요. 금요일에 민수 하고 송은를 만날 거예요
+
+사) 매일 일해요?
+아니요, 금요일에 일한해요
+
+아) 주말에 뭐를 했어요?
+친구를 만났어요
+공원를 운둥했어요
+
+자) 언제 피자를 시켰어요?
+방금 피자를 시켰어요
+
+\
+
+= 질문에 갑하세요
+
+#nota[
+  Siempre cuando decimos tiempos tipo
+  월요일, 저녁, etc. hay que usar del mas general al mas especifico
+]
+
+1. 재일은 뭐를 해요?
+
+2. 주말에 뭐를 했어요?
+
+3. 한숫어 수업이 언제 있어요?
+
+4.
+
+5. 오늘 저녁에 뭐를 할 거예요?
+공원을 운동할 거예요
+
+6. 이번 주 주말에 친구를 만나요?
+네, 맞아요
+
+
+7. 다음 주 화요일에 뭐를할거예요?
+가수를 들을거예요
+
+8. 어제 오후에 뭐했어요?
+
+9. 아침에 운동했어요?
+아니요, 밤에 운동했어요
+
+
+= 문장을 만드세요
+
+1. 
+
+
+
+
 
 
