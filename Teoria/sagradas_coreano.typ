@@ -696,6 +696,7 @@ La terminacion ~(으)세요 se usa para hacer peticiones o dar instrucciones de 
 
 == Particulas Esenciales
 
+TODO _Esto hay que corregirlo_
 #align(center)[
   #table(
     columns: 3,
