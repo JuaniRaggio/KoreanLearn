@@ -210,7 +210,31 @@ ahora se puede ver no solo en una exposicion, sino que se puede ver y comprar di
 
 = 문장을 만드세요
 
-1. 
+주다: Dar
+검색하다: Buscar por internet
+팔다: Vender
+
+1. 매주 수요일에 저는 수업을 있어요
+#doubt[
+  En este caso 매주 수요일에 저는 수업이 있어요, esta bien usar el
+  을? 
+  Entiendo que se piensa como que "la clase" es la que esta 
+  *"haciendo la accion de existir"* o como seria la forma de 
+  decirlo usando 저
+][
+]
+
+2. 매주 ... (주다)
+
+3. 매주 ... (주다)
+
+4. 다음 주 일요일 아침에 ... (검색하다)
+
+5. 이번주 일요일 아침에 ... (검색하다)
+
+6. 지난 주 일요일 아침에 ... (검색하다)
+
+7. 오늘 오후에 ... (팔다)
 
 
 
