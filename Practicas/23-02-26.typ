@@ -113,6 +113,27 @@
 }
 
 #nota[
+  단어:
+  - 발코니 => Balcon
+  - 옥상 => Terraza
+  - 백화점 => Shopping
+  - 싱당 => Restaurante
+  - 거실 => Sala
+  - 도서관 => Biblioteca
+  - 박물관 => Museo
+  - 회가 => Empresa
+  - 은행 => Banco
+  - 부엌 => Cocina
+  - 교실 => Aula
+
+  - 학교 => Escuela
+  - 방 => Habitacion
+  - 집 => Casa
+  - 병원 => Hospital
+  - 공원 => Parque
+]
+
+#importante[
   *에 vs. 에서*
   - 에: Sufijo para ubicacion "estatica", se usa para indicar donde
   esta algo o hacia donde va algo (destino)
@@ -135,6 +156,7 @@
 
 
 = 어다
+
 
 
 
