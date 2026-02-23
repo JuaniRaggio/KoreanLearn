@@ -114,43 +114,44 @@
 
 #nota[
   *단어:*
-  - 발코니 => Balcon
-  - 옥상 => Terraza
-  - 백화점 => Shopping
-  - 싱당 => Restaurante
-  - 거실 => Sala
-  - 도서관 => Biblioteca
-  - 박물관 => Museo
-  - 회가 => Empresa
-  - 은행 => Banco
-  - 부엌 => Cocina
-  - 교실 => Aula
+  - 발코니 $=>$ Balcon
+  - 옥상 $=>$ Terraza
+  - 백화점 $=>$ Shopping
+  - 싱당 $=>$ Restaurante
+  - 거실 $=>$ Sala
+  - 도서관 $=>$ Biblioteca
+  - 박물관 $=>$ Museo
+  - 회가 $=>$ Empresa
+  - 은행 $=>$ Banco
+  - 부엌 $=>$ Cocina
+  - 교실 $=>$ Aula
 
 
-  - 학교 => Escuela
-  - 방 => Habitacion
-  - 집 => Casa
-  - 병원 => Hospital
-  - 공원 => Parque
+  - 편의점 $=>$ tienda 24h
+  - 마트 $=>$ supermercado
+  - 학교 $=>$ Escuela
+  - 방 $=>$ Habitacion
+  - 집 $=>$ Casa
+  - 병원 $=>$ Hospital
+  - 공원 $=>$ Parque
 
-  - 숙제 => Tarea
-  - 카드 => Naipes
-  - 햇볕 => Luz de sol / rayos de sol (*CONSULTAR*)
+  - 숙제 $=>$ Tarea
+  - 카드 $=>$ Naipes
+  - 햇볕 $=>$ Luz de sol / rayos de sol (*CONSULTAR*)
+  - 과자 $=>$ Snacks / Cookies / Crackers
 
   *동사:*
-  - 쉬다 => Descansar
+  - 쉬다 $=>$ Descansar
 
   *표현:*
-  - 쬐다 => Exponerse al calor o luz
+  - 쬐다 $=>$ Exponerse al calor o luz
 ]
 
 #importante[
   *에 vs. 에서*
-  - 에: Sufijo para ubicacion "estatica", se usa para indicar donde
-  esta algo o hacia donde va algo (destino)
+  - 에: Sufijo para ubicacion "estatica", se usa para indicar donde esta algo o hacia donde va algo (destino)
 
-  - 에서: Sufijo para ubicacion "dinamica", indica que una accion
-  esta ocurriendo en cierto lugar o desde donde ocurre (origen)
+  - 에서: Sufijo para ubicacion "dinamica", indica que una accion esta ocurriendo en cierto lugar o desde donde ocurre (origen)
 ]
 
 #doubt[
