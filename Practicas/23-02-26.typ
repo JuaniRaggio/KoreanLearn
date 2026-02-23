@@ -133,6 +133,7 @@
   - 병원 => Hospital
   - 공원 => Parque
 
+  - 숙제 => Tarea
   - 카드 => Naipes
   - 햇볕 => Luz de sol / rayos de sol (*CONSULTAR*)
 
