@@ -113,7 +113,7 @@
 }
 
 #nota[
-  단어:
+  *단어:*
   - 발코니 => Balcon
   - 옥상 => Terraza
   - 백화점 => Shopping
@@ -126,11 +126,21 @@
   - 부엌 => Cocina
   - 교실 => Aula
 
+
   - 학교 => Escuela
   - 방 => Habitacion
   - 집 => Casa
   - 병원 => Hospital
   - 공원 => Parque
+
+  - 카드 => Naipes
+  - 햇볕 => Luz de sol / rayos de sol (*CONSULTAR*)
+
+  *동사:*
+  - 쉬다 => Descansar
+
+  *표현:*
+  - 쬐다 => Exponerse al calor o luz
 ]
 
 #importante[
@@ -154,8 +164,31 @@
 
 ]
 
+= 뉴스1
+Source: #link("https://www.youtube.com/watch?v=OT3fG7fTaKc")[#text(fill: blue)[마트에서 휴머노이드 로봇 산다...가격은?]]
+
+이렇게 제가 직접 인사를 하게되변 \
+사람처럼 자연스럽게 반응하는데요 \
+오늘부터 마트에서 3100 만원에 판배를 시작했습니다 \
+지난 CES 2026에서 화제를 모은중국 기업의 휴머노이드 오봇인데 \
+이제는 전시장이 아니라 마트에서 직접보고 살 수 있게 됐습니다 \
+
+De esta manera si yo saludo \
+reacciona naturalmente como una persona \
+Desde hoy comienza la venta a 3100 (31 millones de wones) en los supermercados \
+Es el robot humanoide de una empresa china que se convirtio en un tema destacado el pasado CES 2026 \
+ahora se puede ver no solo en una exposicion, sino que se puede ver y comprar directamente en el supermercado. \
+
+\
 
 = 어다
+
+#nota[
+  Esta tarea la hago oralmente ya que por escrito es mucho mas 
+  facil
+]
+
+
 
 
 
