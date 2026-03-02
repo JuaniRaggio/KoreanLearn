@@ -234,7 +234,9 @@
 
 - 진구 $->$  friend / same age person
 
-- 커피 $->$  coffe
+- 커피 $->$  coffee
+
+- 커피숍 $->$ coffee shop
 
 - 가다 $->$  to go
 
