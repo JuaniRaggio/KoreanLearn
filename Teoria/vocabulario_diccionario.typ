@@ -711,7 +711,6 @@ Estos comandos los escucharás constantemente en clase:
 - 알겠어요? $->$ ¿Entienden?
 - 질문 있어요? $->$ ¿Hay preguntas?
 
-
 == Indicadores de tiempo
 
 === Llevan 에
@@ -737,6 +736,8 @@ Estos comandos los escucharás constantemente en clase:
 - 내년 $->$ Next year
 - 평일 $->$ Dias habiles
 - 휴일 $->$ Feriado
+- 이번주 $->$ Esta semana
+- 지난주 $->$ Semana pasada
 
 === NO llevan 에
 
@@ -756,4 +757,8 @@ Estos comandos los escucharás constantemente en clase:
 - 아까 $->$ Hace un rato
 - 요즘 $->$ Ultimamente / En estos dias
 
+= Vocabulario especifico informatica
 
+- 운영체제 $=>$ Operating Systems
+- 오에스 $=>$ "OS"
+- 자료 기지 == 데이터베이스 $=>$ "database"
