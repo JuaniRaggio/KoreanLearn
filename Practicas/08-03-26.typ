@@ -79,12 +79,21 @@
 _Escribir que hice cada dia de la semana en coreano_
 
 
-== Vocabulario a usar
+== Vocabulario
 
 - 운영체제 $=>$ Operating Systems
 - 오에스 $=>$ "OS"
 - 자료 기지 == 데이터베이스 $=>$ "database"
-
+- 이모 $=>$ tia (hermana de la madre)
+- 이모부 $=>$ tio
+- 외삼촌 $=>$ tio de parte de mi mama
+- 고모 $=>$ tia (hermana del padre)
+- 이모네 집 $=>$ casa de mi tia
+- 할머니 $=>$ abuela
+- 상품권 $=>$ Gift card
+- 현금 $=>$ Efectivo
+- 돈 $=>$ Dinero
+- 줘다 $=>$ Dar
 
 == Resumen semanal
 
@@ -119,9 +128,12 @@ _Escribir que hice cada dia de la semana en coreano_
 
   2. Cualquier "parte" de TSLOV se puede omitir?
 ][
+  Si podes omitir cualquier cosa de TSLOV
 ]
 
 \
 
-== 
+== 일요일
+
+오늘 아침에 집에서 한국어를 공부했어요. 점심에 이모네 집에서 생일 파티가 있었어요. 지금 집에서 한국어 수업이 있어요
 
