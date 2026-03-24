@@ -94,6 +94,28 @@ _Escribir que hice cada dia de la semana en coreano_
 - 현금 $=>$ Efectivo
 - 돈 $=>$ Dinero
 - 줘다 $=>$ Dar
+- 사회생활 $=>$ ser coordial
+- 악플 $=>$ hay un interes pero malo
+- 무플 $=>$ desinteres
+- 한국음식 $=>$ comida coreana
+
+\
+
+== Verbos puros
+
+좋아하다
+싫어하다
+
+#error[
+  Estos no se parten si se ponen adverbios tipo 한 (casi
+  siempre va adelante del verbo)
+
+  못 => Es otro adverbio util
+]
+
+== Otros que no se parten
+
+건강하다 $=>$ ser saludable (tampoco se parte porque es un adjetivo)
 
 == Resumen semanal
 
