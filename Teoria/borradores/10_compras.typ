@@ -176,6 +176,14 @@ En la habitación hay: silla, escritorio, pluma, mochila, cama, libro y almohada
 
 *무슨 과일 좋아해요?* (¿Qué fruta te gusta?)
 
+*뭐 vs 무슨:*
+
+뭐 $=>$ siempre despues viene un verbo por ejemplo (하다, 먹다, 사다)
+
+무슨 ... de que tipo?
+
+왜냐면
+
 *Respuesta:*
 저는 파인애플하고 바나나 좋아해요. $->$ Me gusta la piña y la banana.
 
