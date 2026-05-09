@@ -88,7 +88,7 @@
 
 헬스장 $=>$ gym de personal
 
-== en clase
+== En clase
 
 중국에서 전기 공학을 공부할 거 예요.
 나중에 다시 아르헨ㅊ티나에 돌아올 거예요.
@@ -118,4 +118,3 @@
 
 
 === Diferencias entre 은 / 는 / 이 / 가
-
