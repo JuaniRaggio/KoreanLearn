@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       ae27bd95-3347-418c-bbb3-4f98b7396584
+:END:
+* View Video and Complete exercises :ATTACH:
+
+Video: https://drive.google.com/file/d/1CPwMTv7tYpHlQNQ4Er-y-W_GLrkT9Ww4/view?usp=sharing
+
+** 영상을 설명해요
+
+- *부엌 = cocina*
+- =더러워요= = esta sucio
+
+남자가 화장실에서 나와요. 그리고 부엌으로가요.
+부엌을 봐요, 부엌이 =더러워요=. 아들이 부엌으로 와요.
+남자는 아들한테 빵하고 쨈을 줘요. 남자는 핸드폰을 꺼내요.
+아들은 쨈을 빵에 발라먹어요.
+
+
+
+
+[[attachment:슬라이드2.JPG]]
+
+3 \[\Rightarrow\] 1
+4 \[\Rightarrow\] 2
+1 \[\Rightarrow\] 3
+5 \[\Rightarrow\] 4
+2 \[\Rightarrow\] 5
+
+
+
+[[attachment:슬라이드3.JPG]]
+
+남자가 화장실에서 나와요
+
+=Error:= I forgot putting 장 in 화장실
+
+
+
+[[attachment:슬라이드4.JPG]]
+
+부엌을 봐요, 부엌이 더러워요
+
+=Importante:= 부엌이 \[\rightarrow\] El 이 va en este caso a pesar de estar hablando de la cocina porque el verbo esta hablando de la misma por lo que en la oracion, *la cocina es el sujeto*
+
+
+[[attachment:슬라이드5.JPG]]
+
+
+아들이 부엌으로와요, 그리고 부엌을 봐요
+
+
+
+[[attachment:슬라이드6.JPG]]
+
+
+
+남자는 아들한테 빵하고 잼을 줘요
+
+
+
+
+[[attachment:슬라이드7.JPG]]
+
+
+
+남자가 헨드폰을 꺼내요
+
+
+
+** 문장을 읽고 답하세요
+
+남자가 화장실에서 나와요. 그리고 부엌으로가요.
+부엌을 봐요, 부엌이 =더러워요=. 아들이 부엌으로 와요.
+남자는 아들한테 빵하고 쨈을 줘요. 남자는 핸드폰을 꺼내요.
+아들은 쨈을 빵에 발라먹어요.
+
+1. 누가 화장실에서 나와요? 남자가 화장실에서 나와요
+
+2. 남자가 어디로 가요? 남자가 부엌을 가요
+
+3. 부엌이 어떼요? 부엌이 더러워요.
+
+4. 누가 부엌으로 와요? 아들이 부엌으로 와요
+
+5. 남자가 아들한테 뭐를 줘요? 빵하고 잼을 줘요
+
+6. 남자는 뭐를 해요? 남자는 헨드폰을 꺼내요
+
+7. 아들은 뭐를 해요? 빵하고 쨈을 발라벅어요

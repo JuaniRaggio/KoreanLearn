@@ -136,7 +136,7 @@ es mejor en terminos practicos, escribirlo es mucho mas facil porque tengo tiemp
 
 1. 꺼냈어요 $->$ Sacar
 
-2. 버릴 거예요 $->$ Tirar/Desechar
+2. 버릴 거예요 $->$ Tirar/Desechar $=>$ 버려요
 
 3. 뺐어요 $->$ Quitar
 
